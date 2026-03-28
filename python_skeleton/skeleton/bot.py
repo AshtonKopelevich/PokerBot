@@ -1,6 +1,7 @@
 '''
 This file contains the base class that you should implement for your pokerbot.
 '''
+from skeleton.actions import FoldAction, CallAction, CheckAction, RaiseAction, RedrawAction
 from skeleton.decision_engine import DecisionEngine # Beautifully simple
 
 
@@ -12,7 +13,11 @@ class Bot():
         '''
         Called once when the bot is instantiated at the start of the match.
         Used to set up match-long tracking variables.
+
         '''
+
+        self.decision_engine = DecisionEngine()
+        
         # Match-level trackers
         self.match_clock = 180.0  # We have 180 seconds total
         self.hands_played = 0
@@ -106,4 +111,4 @@ class Bot():
         Returns:
         Your action (FoldAction, CallAction, CheckAction, RaiseAction, or RedrawAction).
         '''
-        raise NotImplementedError('get_action')
+        
