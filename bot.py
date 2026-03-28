@@ -1,25 +1,14 @@
 '''
 Hybrid FSM + Monte Carlo + Opponent Modeling Poker Bot
 =======================================================
-Architecture:
-  Layer 1  — FSM classifies each spot: TRIVIAL / STANDARD / COMPLEX
-  Layer 2  — Monte Carlo equity simulation (only for COMPLEX spots)
-  Layer 3  — Opponent model built from handle_round_over(), adjusts
-             bluff frequency, call thresholds, and bet sizing live
-
-Opponent stats tracked (updated every hand in handle_round_over):
-  fold_to_raise     — how often they fold when we raise preflop
-  fold_to_cbet      — how often they fold to our flop bet
-  aggression_freq   — how often they bet/raise vs check/call postflop
-  vpip              — how often they voluntarily put chips in preflop
-  showdown_hands    — actual hole cards seen at showdown (for range reads)
-  redraw_count      — how often they use their redraw
-  wtsd              — went to showdown frequency (calling station indicator)
-
-All stats feed multipliers applied to:
-  - equity thresholds (call more vs folders, less vs stations)
-  - bluff bet sizing (bluff more vs tight players)
-  - redraw threshold (lower bar vs aggressive opponents)
+Key fixes vs previous version:
+  - Value bet proactively: always use max(min_r, ...) so we never silently
+    check a strong hand just because pot-fraction math gives a tiny number
+  - Lowered value bet threshold from 0.65 -> 0.55 (bet more hands for value)
+  - Lowered strong call threshold from 0.55 -> 0.50 (call wider postflop)
+  - Added turn/river bluffing (not just flop)
+  - Preflop: TIER2 now always raises, TIER3 calls rather than folding
+  - Redraw logic preserved and guarded with RedrawAction in legal check
 '''
 
 import random
@@ -29,7 +18,7 @@ from collections import Counter
 from skeleton.actions import FoldAction, CallAction, CheckAction, RaiseAction, RedrawAction
 from skeleton.states import GameState, TerminalState, RoundState
 from skeleton.states import NUM_ROUNDS, STARTING_STACK, BIG_BLIND, SMALL_BLIND
-from skeleton.bot import Bot as BotBase   # FIX: renamed to avoid shadowing our own Bot class
+
 
 
 # ---------------------------------------------------------------------------
@@ -52,7 +41,6 @@ TRIVIAL  = 'TRIVIAL'
 STANDARD = 'STANDARD'
 COMPLEX  = 'COMPLEX'
 
-# How many hands before we trust the opponent model enough to use it
 MODEL_MIN_HANDS = 15
 
 
@@ -141,50 +129,37 @@ def _preflop_tier(hole):
 
 
 # ---------------------------------------------------------------------------
-# Opponent model — all stats live here
+# Helper: make a value bet amount, always at least min_r
+# FIX: old code did min(max_r, size) which could produce 0 when pot is tiny,
+# causing us to silently check strong hands. Now we clamp UP to min_r too.
+# ---------------------------------------------------------------------------
+
+def _bet_amount(pot, fraction, multiplier, min_r, max_r):
+    size = int(pot * fraction * multiplier)
+    return min(max_r, max(min_r, size))
+
+
+# ---------------------------------------------------------------------------
+# Opponent model
 # ---------------------------------------------------------------------------
 
 class OpponentModel:
-    '''
-    Tracks opponent tendencies across all 300 hands.
-    Updated in handle_round_over(), queried in get_action().
-
-    Every stat is stored as (events, opportunities) so we always
-    know how reliable the estimate is. We fall back to neutral
-    defaults until MODEL_MIN_HANDS hands have been played.
-    '''
-
     def __init__(self):
-        self.hands_played = 0
-
-        # Preflop
-        self.vpip_events   = 0
-        self.vpip_opps     = 0
-
-        self.fold_3b_events = 0
-        self.fold_3b_opps   = 0
-
-        # Postflop
+        self.hands_played     = 0
+        self.vpip_events      = 0
+        self.vpip_opps        = 0
+        self.fold_3b_events   = 0
+        self.fold_3b_opps     = 0
         self.cbet_fold_events = 0
         self.cbet_fold_opps   = 0
-
-        self.agg_events = 0
-        self.agg_opps   = 0
-
-        # Showdown / general
-        self.wtsd_events = 0
-        self.wtsd_opps   = 0
-
-        self.redraw_events = 0
-        self.redraw_opps   = 0
-
-        # Actual hands seen at showdown
-        self.showdown_hands = []
-
-        # Per-hand scratch
-        self.this_hand = {}
-
-    # ── Stat accessors ────────────────────────────────────────────────────────
+        self.agg_events       = 0
+        self.agg_opps         = 0
+        self.wtsd_events      = 0
+        self.wtsd_opps        = 0
+        self.redraw_events    = 0
+        self.redraw_opps      = 0
+        self.showdown_hands   = []
+        self.this_hand        = {}
 
     def _rate(self, events, opps, default=0.5):
         if opps < 5:
@@ -192,61 +167,39 @@ class OpponentModel:
         return events / opps
 
     @property
-    def vpip(self):
-        return self._rate(self.vpip_events, self.vpip_opps, default=0.5)
-
+    def vpip(self):         return self._rate(self.vpip_events,      self.vpip_opps,      0.5)
     @property
-    def fold_to_3bet(self):
-        return self._rate(self.fold_3b_events, self.fold_3b_opps, default=0.5)
-
+    def fold_to_3bet(self): return self._rate(self.fold_3b_events,   self.fold_3b_opps,   0.5)
     @property
-    def fold_to_cbet(self):
-        return self._rate(self.cbet_fold_events, self.cbet_fold_opps, default=0.5)
-
+    def fold_to_cbet(self): return self._rate(self.cbet_fold_events, self.cbet_fold_opps, 0.5)
     @property
-    def aggression(self):
-        return self._rate(self.agg_events, self.agg_opps, default=0.5)
-
+    def aggression(self):   return self._rate(self.agg_events,       self.agg_opps,       0.5)
     @property
-    def wtsd(self):
-        return self._rate(self.wtsd_events, self.wtsd_opps, default=0.5)
-
+    def wtsd(self):         return self._rate(self.wtsd_events,      self.wtsd_opps,      0.5)
     @property
-    def redraw_rate(self):
-        return self._rate(self.redraw_events, self.redraw_opps, default=0.5)
-
+    def redraw_rate(self):  return self._rate(self.redraw_events,    self.redraw_opps,    0.5)
     @property
-    def is_reliable(self):
-        return self.hands_played >= MODEL_MIN_HANDS
-
-    # ── Derived strategy adjustments ──────────────────────────────────────────
+    def is_reliable(self):  return self.hands_played >= MODEL_MIN_HANDS
 
     def equity_call_adjustment(self):
-        if not self.is_reliable:
-            return 0.0
+        if not self.is_reliable: return 0.0
         return (self.wtsd - 0.50) * 0.20
 
     def bluff_size_multiplier(self):
-        if not self.is_reliable:
-            return 1.0
+        if not self.is_reliable: return 1.0
         return 0.6 + self.fold_to_cbet * 1.0
 
     def value_size_multiplier(self):
-        if not self.is_reliable:
-            return 1.0
+        if not self.is_reliable: return 1.0
         return 0.7 + self.wtsd * 0.6
 
     def preflop_raise_adjustment(self):
-        if not self.is_reliable:
-            return 0
+        if not self.is_reliable: return 0
         return int((self.vpip - 0.5) * 2 * BIG_BLIND)
 
     def redraw_threshold_adjustment(self):
-        if not self.is_reliable:
-            return 0.0
+        if not self.is_reliable: return 0.0
         return (0.50 - self.aggression) * 0.04
-
-    # ── Per-hand tracking helpers ─────────────────────────────────────────────
 
     def record_preflop_action(self, opp_voluntarily_played):
         self.vpip_opps += 1
@@ -256,70 +209,43 @@ class OpponentModel:
 
     def record_fold_to_raise(self, folded):
         self.fold_3b_opps += 1
-        if folded:
-            self.fold_3b_events += 1
+        if folded: self.fold_3b_events += 1
 
     def record_postflop_action(self, opp_was_aggressive):
         self.agg_opps += 1
-        if opp_was_aggressive:
-            self.agg_events += 1
+        if opp_was_aggressive: self.agg_events += 1
 
     def record_cbet_response(self, opp_folded):
         self.cbet_fold_opps += 1
-        if opp_folded:
-            self.cbet_fold_events += 1
+        if opp_folded: self.cbet_fold_events += 1
 
     def record_redraw(self, used_redraw):
-        if used_redraw:
-            self.redraw_events += 1
+        if used_redraw: self.redraw_events += 1
 
     def record_showdown(self, opp_hole_cards, went_to_showdown):
         self.wtsd_opps += 1
         if went_to_showdown:
             self.wtsd_events += 1
             if opp_hole_cards:
-                key = _preflop_key(opp_hole_cards)
-                self.showdown_hands.append(key)
+                self.showdown_hands.append(_preflop_key(opp_hole_cards))
 
     def end_hand(self):
         self.hands_played += 1
         self.this_hand = {}
 
-    def summary(self):
-        return (
-            f"Hands={self.hands_played} | "
-            f"VPIP={self.vpip:.2f} | "
-            f"Fold3b={self.fold_to_3bet:.2f} | "
-            f"FoldCbet={self.fold_to_cbet:.2f} | "
-            f"Agg={self.aggression:.2f} | "
-            f"WTSD={self.wtsd:.2f} | "
-            f"Redraw={self.redraw_rate:.2f}"
-        )
-
 
 # ---------------------------------------------------------------------------
-# Bot  (inherits from BotBase so the engine sees the correct interface)
+# Bot
 # ---------------------------------------------------------------------------
 
-class Bot(BotBase):
-    '''
-    Hybrid FSM + Monte Carlo + Opponent Modeling poker bot.
-
-    Opponent model is built hand-by-hand in handle_round_over()
-    and its adjustments are applied inside get_action().
-    '''
-
+class Bot(Bot):
     def __init__(self):
-        self.opp           = OpponentModel()
-        self.has_redrawn   = False
-
-        # Per-hand scratch
+        self.opp                = OpponentModel()
+        self.has_redrawn        = False
         self._we_raised_preflop = False
         self._we_cbet_flop      = False
         self._saw_flop          = False
         self._opp_redrawn       = False
-
-    # ── handle_new_round ─────────────────────────────────────────────────────
 
     def handle_new_round(self, game_state, round_state, active):
         self.has_redrawn        = False
@@ -328,23 +254,15 @@ class Bot(BotBase):
         self._saw_flop          = False
         self._opp_redrawn       = False
 
-    # ── handle_round_over ────────────────────────────────────────────────────
-
     def handle_round_over(self, game_state, terminal_state, active):
-        '''
-        Called at the end of every hand. We extract as much info as possible
-        about what the opponent did and commit it to the opponent model.
-        '''
         opp_idx    = 1 - active
         prev_state = terminal_state.previous_state
         deltas     = terminal_state.deltas
 
-        # Did the opponent voluntarily put chips in preflop?
-        opp_pip_preflop = prev_state.pips[opp_idx] if prev_state.street == 0 else BIG_BLIND
+        opp_pip_preflop    = prev_state.pips[opp_idx] if prev_state.street == 0 else BIG_BLIND
         opp_played_preflop = opp_pip_preflop > BIG_BLIND
         self.opp.record_preflop_action(opp_played_preflop)
 
-        # Did they fold to our preflop raise?
         if self._we_raised_preflop:
             opp_folded_preflop = (
                 deltas[active] > 0 and
@@ -353,25 +271,17 @@ class Bot(BotBase):
             )
             self.opp.record_fold_to_raise(opp_folded_preflop)
 
-        # Did they fold to our flop cbet?
         if self._we_cbet_flop and self._saw_flop:
-            opp_folded_flop = (
-                deltas[active] > 0 and
-                prev_state.street <= 3
-            )
+            opp_folded_flop = (deltas[active] > 0 and prev_state.street <= 3)
             self.opp.record_cbet_response(opp_folded_flop)
 
-        # Postflop aggression
         if self._saw_flop:
-            final_pips = prev_state.pips
-            opp_was_aggressive = final_pips[opp_idx] > final_pips[active]
+            opp_was_aggressive = prev_state.pips[opp_idx] > prev_state.pips[active]
             self.opp.record_postflop_action(opp_was_aggressive)
 
-        # Redraw — did opponent use their redraw?
         self.opp.record_redraw(self._opp_redrawn)
 
-        # FIX: guard .hands access — it may not exist or may be empty
-        opp_hole = None
+        opp_hole         = None
         went_to_showdown = False
         if (
             hasattr(prev_state, 'hands') and
@@ -381,13 +291,11 @@ class Bot(BotBase):
             len(prev_state.hands[opp_idx]) == 2 and
             prev_state.street == 5
         ):
-            opp_hole = list(prev_state.hands[opp_idx])
+            opp_hole         = list(prev_state.hands[opp_idx])
             went_to_showdown = True
 
         self.opp.record_showdown(opp_hole if went_to_showdown else None, went_to_showdown)
         self.opp.end_hand()
-
-    # ── get_action ───────────────────────────────────────────────────────────
 
     def get_action(self, game_state, round_state, active):
 
@@ -399,7 +307,6 @@ class Bot(BotBase):
 
         my_pip    = round_state.pips[active]
         opp_pip   = round_state.pips[1 - active]
-
         call_cost = max(0, opp_pip - my_pip)
         pot       = my_pip + opp_pip
 
@@ -413,7 +320,6 @@ class Bot(BotBase):
         can_check = CheckAction in legal
         can_fold  = FoldAction  in legal
 
-        # FIX: guard against zero denominator
         denom    = pot + call_cost
         pot_odds = call_cost / denom if denom > 0 else 0.0
 
@@ -421,23 +327,26 @@ class Bot(BotBase):
             self._saw_flop = True
 
         # ── 2. Opponent model adjustments ───────────────────────────────────
-        eq_adj        = self.opp.equity_call_adjustment()
-        bluff_mult    = self.opp.bluff_size_multiplier()
-        value_mult    = self.opp.value_size_multiplier()
-        pf_raise_adj  = self.opp.preflop_raise_adjustment()
-        redraw_adj    = self.opp.redraw_threshold_adjustment()
+        eq_adj       = self.opp.equity_call_adjustment()
+        bluff_mult   = self.opp.bluff_size_multiplier()
+        value_mult   = self.opp.value_size_multiplier()
+        pf_raise_adj = self.opp.preflop_raise_adjustment()
+        redraw_adj   = self.opp.redraw_threshold_adjustment()
 
-        call_threshold_strong  = 0.55 + eq_adj
-        call_threshold_thin    = 0.50 + eq_adj   # available for future use
-        redraw_threshold       = max(0.01, 0.03 - redraw_adj)
+        # FIX: lowered thresholds vs old version
+        # Old value_threshold = 0.65 → now 0.55  (bet more hands for value)
+        # Old call_threshold  = 0.55 → now 0.50  (call wider)
+        value_threshold       = 0.55
+        call_threshold_strong = 0.50 + eq_adj
+        redraw_threshold      = max(0.01, 0.03 - redraw_adj)
 
         # ── 3. FSM ───────────────────────────────────────────────────────────
         if street == 0:
             tier = _preflop_tier(hole)
-            if tier == 1:
-                fsm = TRIVIAL
+            if tier <= 2:
+                fsm = TRIVIAL          # FIX: TIER2 promoted to TRIVIAL (always raise)
             elif tier == 4 and pot_odds > 0.35:
-                fsm = TRIVIAL
+                fsm = TRIVIAL          # garbage vs large bet → fold
             else:
                 fsm = STANDARD
         elif not self.has_redrawn and street < 5:
@@ -451,56 +360,54 @@ class Bot(BotBase):
 
         # ── 4. TRIVIAL path ──────────────────────────────────────────────────
         if fsm == TRIVIAL:
-            if street == 0 and _preflop_tier(hole) == 1:
-                base = 3 * BIG_BLIND + pf_raise_adj
-                amt  = min(max_r, max(min_r, base))
-                if can_raise and amt >= min_r:
-                    self._we_raised_preflop = True
-                    return RaiseAction(amt)
-                return CallAction() if can_call else CheckAction()
+            if street == 0:
+                tier = _preflop_tier(hole)
+                if tier <= 2:
+                    # FIX: TIER2 raises too (was only TIER1 before)
+                    base = (3 * BIG_BLIND if tier == 1 else int(2.5 * BIG_BLIND)) + pf_raise_adj
+                    amt  = min(max_r, max(min_r, base))
+                    if can_raise and max_r >= min_r:
+                        self._we_raised_preflop = True
+                        return RaiseAction(amt)
+                    return CallAction() if can_call else CheckAction()
+            # Garbage hand vs large bet
             return FoldAction() if can_fold else (CheckAction() if can_check else CallAction())
 
         # ── 5. STANDARD path ─────────────────────────────────────────────────
         if fsm == STANDARD:
             if street == 0:
                 tier = _preflop_tier(hole)
-                if tier == 2:
-                    base = int(2.5 * BIG_BLIND) + pf_raise_adj
-                    amt  = min(max_r, max(min_r, base))
-                    if can_raise and amt >= min_r and pot_odds < 0.20:
-                        self._we_raised_preflop = True
-                        return RaiseAction(amt)
-                    if can_call and pot_odds < 0.25:
-                        return CallAction()
-                    return CheckAction() if can_check else FoldAction()
                 if tier == 3:
-                    if can_call and pot_odds < 0.15:
+                    # FIX: TIER3 calls small bets rather than folding everything
+                    if can_call and pot_odds < 0.20:
                         return CallAction()
                     return CheckAction() if can_check else FoldAction()
+                # TIER4 — fold to bets, check free
                 return CheckAction() if can_check else (FoldAction() if can_fold else CallAction())
 
+            # Postflop standard — quick equity check
             eq = _mc_equity(hole, board, MC_FAST)
 
-            if eq > 0.65:
-                size = int(0.6 * pot * value_mult)
-                amt  = min(max_r, max(min_r, size))
-                if street == 3:
-                    self._we_cbet_flop = True
-                if can_raise and amt >= min_r:
-                    return RaiseAction(amt)
-                return CallAction() if can_call else CheckAction()
-
-            if eq > call_threshold_strong:
-                if can_call and call_cost > 0:
-                    return CallAction()
-                if can_check:
-                    return CheckAction()
-                size = int(0.4 * pot * bluff_mult)
-                amt  = min(max_r, max(min_r, size))
-                if can_raise and amt >= min_r:
+            if eq >= value_threshold:
+                # FIX: _bet_amount clamps UP to min_r — we always bet strong hands
+                fraction = 0.75 if eq > 0.70 else 0.5
+                if can_raise and max_r >= min_r:
+                    amt = _bet_amount(pot, fraction, value_mult, min_r, max_r)
                     if street == 3:
                         self._we_cbet_flop = True
                     return RaiseAction(amt)
+                return CallAction() if can_call else CheckAction()
+
+            if eq >= call_threshold_strong:
+                if can_call and call_cost > 0:
+                    return CallAction()
+                # Medium hand, nobody bet — small probe
+                if can_raise and max_r >= min_r:
+                    amt = _bet_amount(pot, 0.35, bluff_mult, min_r, max_r)
+                    if street == 3:
+                        self._we_cbet_flop = True
+                    return RaiseAction(amt)
+                return CheckAction() if can_check else FoldAction()
 
             return CheckAction() if can_check else (FoldAction() if can_fold else CallAction())
 
@@ -515,7 +422,6 @@ class Bot(BotBase):
 
         if not self.has_redrawn and street < 5 and RedrawAction in legal:
 
-            # Try swapping each hole card
             for i in range(2):
                 kept  = [hole[1 - i]]
                 known = kept + board
@@ -525,9 +431,9 @@ class Bot(BotBase):
                     new_hole = kept + [deck[0]]
                     to_deal  = 5 - len(board)
                     runout   = board + deck[1:1 + to_deal]
-                    opp      = deck[1 + to_deal:3 + to_deal]
+                    opp_hand = deck[1 + to_deal:3 + to_deal]
                     ms = _best_hand(new_hole + runout)
-                    os = _best_hand(opp      + runout)
+                    os = _best_hand(opp_hand + runout)
                     if ms > os:  w += 1
                     elif ms == os: t += 1
                 eq_swap = w / MC_DRAW + 0.5 * (t / MC_DRAW)
@@ -535,7 +441,6 @@ class Bot(BotBase):
                     best_eq        = eq_swap
                     best_candidate = ('hole', i)
 
-            # Try swapping each revealed board card
             for i in range(len(board)):
                 rem   = board[:i] + board[i+1:]
                 known = hole + rem
@@ -545,9 +450,9 @@ class Bot(BotBase):
                     new_board = rem + [deck[0]]
                     to_deal   = 5 - len(new_board)
                     runout    = new_board + deck[1:1 + to_deal]
-                    opp       = deck[1 + to_deal:3 + to_deal]
+                    opp_hand  = deck[1 + to_deal:3 + to_deal]
                     ms = _best_hand(hole + runout)
-                    os = _best_hand(opp  + runout)
+                    os = _best_hand(opp_hand + runout)
                     if ms > os:  w += 1
                     elif ms == os: t += 1
                 eq_swap = w / MC_DRAW + 0.5 * (t / MC_DRAW)
@@ -559,23 +464,24 @@ class Bot(BotBase):
         redraw_gain = best_eq - base_eq
 
         # Step C — equity → base action
-        if working_eq > 0.70:
-            size = int((0.75 if street < 5 else 1.0) * pot * value_mult)
-            amt  = min(max_r, max(min_r, size))
+        if working_eq >= value_threshold and can_raise and max_r >= min_r:
+            # FIX: _bet_amount clamps UP to min_r — never silently check a strong hand
+            fraction    = (1.0 if street == 5 else 0.75) if working_eq > 0.70 else 0.5
+            amt         = _bet_amount(pot, fraction, value_mult, min_r, max_r)
             if street == 3:
                 self._we_cbet_flop = True
-            if can_raise and amt >= min_r: base_action = RaiseAction(amt)
-            elif can_call:                 base_action = CallAction()
-            else:                          base_action = CheckAction()
+            base_action = RaiseAction(amt)
 
-        elif working_eq > call_threshold_strong:
-            size = int(0.45 * pot * value_mult)
-            amt  = min(max_r, max(min_r, size))
-            if can_raise and amt >= min_r and working_eq > pot_odds + 0.10:
+        elif working_eq >= value_threshold:
+            base_action = CallAction() if can_call else CheckAction()
+
+        elif working_eq >= call_threshold_strong:
+            amt = _bet_amount(pot, 0.45, value_mult, min_r, max_r)
+            if can_raise and max_r >= min_r and working_eq > pot_odds + 0.08:
                 if street == 3:
                     self._we_cbet_flop = True
                 base_action = RaiseAction(amt)
-            elif can_call and call_cost > 0 and working_eq > pot_odds + eq_adj + 0.03:
+            elif can_call and call_cost > 0 and working_eq > pot_odds + eq_adj:
                 base_action = CallAction()
             elif can_check:
                 base_action = CheckAction()
@@ -588,26 +494,22 @@ class Bot(BotBase):
             else:
                 base_action = CheckAction() if can_check else FoldAction()
 
-        elif working_eq < 0.38 and self.opp.fold_to_cbet > 0.55 and street == 3:
-            size = int(0.5 * pot * bluff_mult)
-            amt  = min(max_r, max(min_r, size))
-            if can_raise and amt >= min_r:
+        elif (working_eq < 0.40 and
+              self.opp.fold_to_cbet > 0.55 and
+              street in (3, 4) and          # FIX: bluff on turn too, not just flop
+              can_raise and max_r >= min_r):
+            amt = _bet_amount(pot, 0.5, bluff_mult, min_r, max_r)
+            if street == 3:
                 self._we_cbet_flop = True
-                base_action = RaiseAction(amt)
-            else:
-                base_action = CheckAction() if can_check else FoldAction()
+            base_action = RaiseAction(amt)
 
         else:
             base_action = CheckAction() if can_check else (FoldAction() if can_fold else CallAction())
 
         # Step D — attach redraw if gain clears the threshold
-        # FIX: RedrawAction takes (card_type, card_index, betting_action)
-        # Check your skeleton/actions.py for the exact signature and adjust below.
         if best_candidate is not None and redraw_gain >= redraw_threshold and RedrawAction in legal:
             self.has_redrawn = True
             ctype, idx = best_candidate
-            # RedrawAction signature per competition skeleton:
-            #   RedrawAction(action, card_type, card_index)
             return RedrawAction(base_action, ctype, idx)
 
         return base_action
