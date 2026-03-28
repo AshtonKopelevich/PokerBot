@@ -18,20 +18,31 @@ class TimeManager:
         return time.perf_counter() - self.match_start
 
     def remaining_seconds(self):
-        return max(0.0, self.total_match_seconds - self.used_seconds())
-if not uncertain else 0.040, usable)
-        if street == 4:
-            return min(0.030 if not uncertain else 0.060, usable)
-        if street ==
+        remaining = self.total_match_seconds - self.used_seconds()
+        return max(0.0, remaining)
+
     def decision_budget(self, street, uncertain=False):
+        """
+        Returns a small time budget in seconds for this decision.
+        Keeps a reserve so the bot does not time out late in the match.
+        """
+
         remaining = self.remaining_seconds()
         usable = max(0.0, remaining - self.reserve_seconds)
+
         if usable <= 0.0:
             return 0.001
 
-        if street == 0:
-            return 0.002 if not uncertain else 0.004
-        if street == 3:
-            return min(0 5:
-            return min(0.010 if not uncertain else 0.020, usable)
-        return 0.005
+        if street == 0:      # preflop
+            return min(0.004 if uncertain else 0.002, usable)
+
+        if street == 3:      # flop
+            return min(0.040 if uncertain else 0.020, usable)
+
+        if street == 4:      # turn
+            return min(0.060 if uncertain else 0.030, usable)
+
+        if street == 5:      # river
+            return min(0.020 if uncertain else 0.010, usable)
+
+        return min(0.005, usable)
