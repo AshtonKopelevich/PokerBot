@@ -1,0 +1,6738 @@
+TACS Pokerbots - A vs B
+
+Round #1, A (0), B (0)
+A posts blind 1
+B posts blind 2
+A dealt [9c 5h]
+B dealt [3s 7d]
+A calls
+B checks
+Flop [5c Ts Ac], A (2), B (2)
+Redraw reveal for 0: WH0 X3s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5h
+A redraws hole card 1 and checks
+Turn [5c Ts Ac Qs], A (2), B (2)
+B checks
+A checks
+River [5c Ts Ac Qs 4h], A (2), B (2)
+B checks
+A checks
+A shows [9c 2c]
+B shows [4s 7d]
+A awarded -2
+B awarded 2
+
+Round #2, B (2), A (-2)
+B posts blind 1
+A posts blind 2
+B dealt [3s Qd]
+A dealt [2c Qc]
+B calls
+A checks
+Flop [5d 6d 9d], B (2), A (2)
+Redraw reveal for 0: WH0 X2c
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3s
+B redraws hole card 0 and checks
+Turn [5d 6d 9d Ah], B (2), A (2)
+A checks
+B checks
+River [5d 6d 9d Ah Ac], B (2), A (2)
+A checks
+B checks
+B shows [7c Qd]
+A shows [Tc Qc]
+B awarded -2
+A awarded 2
+
+Round #3, A (0), B (0)
+A posts blind 1
+B posts blind 2
+A dealt [3c Ah]
+B dealt [4d 3d]
+A calls
+B checks
+Flop [As 7s 5h], A (2), B (2)
+Redraw reveal for 0: WH1 X3d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X3c
+A redraws hole card 0 and checks
+Turn [As 7s 5h Ac], A (2), B (2)
+B checks
+A checks
+River [As 7s 5h Ac 4h], A (2), B (2)
+B checks
+A checks
+A shows [2h Ah]
+B shows [4d 9s]
+A awarded 2
+B awarded -2
+
+Round #4, B (-2), A (2)
+B posts blind 1
+A posts blind 2
+B dealt [Th 8h]
+A dealt [Js 3d]
+B calls
+A checks
+Flop [3s 6c 9d], B (2), A (2)
+Redraw reveal for 0: WH1 X3d
+A redraws hole card 1 and checks
+B checks
+Turn [3s 6c 9d 2h], B (2), A (2)
+A checks
+B checks
+River [3s 6c 9d 2h 9h], B (2), A (2)
+A checks
+B checks
+B shows [Th 8h]
+A shows [Js Td]
+B awarded -2
+A awarded 2
+
+Round #5, A (4), B (-4)
+A posts blind 1
+B posts blind 2
+A dealt [5s Td]
+B dealt [3h 2s]
+A calls
+B checks
+Flop [6h Ad 4c], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5s
+A redraws hole card 0 and checks
+Turn [6h Ad 4c 3d], A (2), B (2)
+B checks
+A checks
+River [6h Ad 4c 3d As], A (2), B (2)
+B checks
+A checks
+A shows [2c Td]
+B shows [3h 3s]
+A awarded -2
+B awarded 2
+
+Round #6, B (-2), A (2)
+B posts blind 1
+A posts blind 2
+B dealt [5s 6d]
+A dealt [8s Kd]
+B calls
+A checks
+Flop [8c Qc Ks], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X5s
+B redraws hole card 0 and checks
+Turn [8c Qc Ks 9h], B (2), A (2)
+A checks
+B checks
+River [8c Qc Ks 9h 5c], B (2), A (2)
+A checks
+B checks
+B shows [Kc 6d]
+A shows [8s Kd]
+B awarded -2
+A awarded 2
+
+Round #7, A (4), B (-4)
+A posts blind 1
+B posts blind 2
+A dealt [7c Ts]
+B dealt [9s 7d]
+A calls
+B checks
+Flop [Ks 8h 5d], A (2), B (2)
+Redraw reveal for 0: WH1 X7d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X7c
+A redraws hole card 0 and checks
+Turn [Ks 8h 5d Kd], A (2), B (2)
+B checks
+A checks
+River [Ks 8h 5d Kd 4s], A (2), B (2)
+B checks
+A checks
+A shows [6d Ts]
+B shows [9s 4c]
+A awarded -2
+B awarded 2
+
+Round #8, B (-2), A (2)
+B posts blind 1
+A posts blind 2
+B dealt [9c 7d]
+A dealt [5d Ad]
+B calls
+A checks
+Flop [Js Jh 6c], B (2), A (2)
+Redraw reveal for 0: WH0 X5d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7d
+B redraws hole card 1 and checks
+Turn [Js Jh 6c 5s], B (2), A (2)
+A checks
+B checks
+River [Js Jh 6c 5s Th], B (2), A (2)
+A checks
+B checks
+B shows [9c Qs]
+A shows [Kd Ad]
+B awarded -2
+A awarded 2
+
+Round #9, A (4), B (-4)
+A posts blind 1
+B posts blind 2
+A dealt [6h 8s]
+B dealt [9c 4s]
+A calls
+B checks
+Flop [Ts Kc 7h], A (2), B (2)
+Redraw reveal for 0: WH1 X4s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6h
+A redraws hole card 0 and checks
+Turn [Ts Kc 7h 6s], A (2), B (2)
+B checks
+A checks
+River [Ts Kc 7h 6s Qc], A (2), B (2)
+B checks
+A checks
+A shows [7d 8s]
+B shows [9c 8h]
+A awarded -2
+B awarded 2
+
+Round #10, B (-2), A (2)
+B posts blind 1
+A posts blind 2
+B dealt [Jd Ad]
+A dealt [4s Td]
+B calls
+A checks
+Flop [8s 6s 2c], B (2), A (2)
+Redraw reveal for 0: WH0 X4s
+A redraws hole card 0 and checks
+B checks
+Turn [8s 6s 2c Qd], B (2), A (2)
+A checks
+B checks
+River [8s 6s 2c Qd 8d], B (2), A (2)
+A checks
+B checks
+B shows [Jd Ad]
+A shows [Qs Td]
+B awarded -2
+A awarded 2
+
+Round #11, A (4), B (-4)
+A posts blind 1
+B posts blind 2
+A dealt [3h 4d]
+B dealt [5c 9c]
+A calls
+B checks
+Flop [4s As 2d], A (2), B (2)
+Redraw reveal for 0: WH0 X5c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3h
+A redraws hole card 0 and checks
+Turn [4s As 2d 9h], A (2), B (2)
+B checks
+A checks
+River [4s As 2d 9h 6h], A (2), B (2)
+B checks
+A checks
+A shows [2h 4d]
+B shows [Jc 9c]
+A awarded 2
+B awarded -2
+
+Round #12, B (-6), A (6)
+B posts blind 1
+A posts blind 2
+B dealt [2d As]
+A dealt [5d 6s]
+B calls
+A checks
+Flop [Qh Qc Td], B (2), A (2)
+Redraw reveal for 0: WH0 X5d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X2d
+B redraws hole card 0 and checks
+Turn [Qh Qc Td 3s], B (2), A (2)
+A checks
+B checks
+River [Qh Qc Td 3s Qs], B (2), A (2)
+A checks
+B checks
+B shows [Jh As]
+A shows [7c 6s]
+B awarded 2
+A awarded -2
+
+Round #13, A (4), B (-4)
+A posts blind 1
+B posts blind 2
+A dealt [Jc 7s]
+B dealt [6h 7h]
+A calls
+B checks
+Flop [Jh Qc 5d], A (2), B (2)
+Redraw reveal for 0: WH0 X6h
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7s
+A redraws hole card 1 and checks
+Turn [Jh Qc 5d Td], A (2), B (2)
+B checks
+A checks
+River [Jh Qc 5d Td 3d], A (2), B (2)
+B checks
+A checks
+A shows [Jc 6s]
+B shows [Ks 7h]
+A awarded 2
+B awarded -2
+
+Round #14, B (-6), A (6)
+B posts blind 1
+A posts blind 2
+B dealt [7c 5h]
+A dealt [2d 9c]
+B calls
+A checks
+Flop [7d 6h 9s], B (2), A (2)
+Redraw reveal for 0: WH0 X2d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5h
+B redraws hole card 1 and checks
+Turn [7d 6h 9s As], B (2), A (2)
+A checks
+B checks
+River [7d 6h 9s As 5c], B (2), A (2)
+A checks
+B checks
+B shows [7c Qd]
+A shows [6d 9c]
+B awarded -2
+A awarded 2
+
+Round #15, A (8), B (-8)
+A posts blind 1
+B posts blind 2
+A dealt [8d Qs]
+B dealt [9d 6h]
+A calls
+B checks
+Flop [2d 7d Jc], A (2), B (2)
+Redraw reveal for 0: WH1 X6h
+B redraws hole card 1 and checks
+A checks
+Turn [2d 7d Jc Th], A (2), B (2)
+B checks
+A checks
+River [2d 7d Jc Th Ts], A (2), B (2)
+B checks
+A checks
+A shows [8d Qs]
+B shows [9d As]
+A awarded -2
+B awarded 2
+
+Round #16, B (-6), A (6)
+B posts blind 1
+A posts blind 2
+B dealt [Ah 4c]
+A dealt [Qs Ad]
+B calls
+A checks
+Flop [Qh Jc 3h], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X4c
+B redraws hole card 1 and checks
+Turn [Qh Jc 3h 6d], B (2), A (2)
+A checks
+B checks
+River [Qh Jc 3h 6d 3d], B (2), A (2)
+A checks
+B checks
+B shows [Ah 4d]
+A shows [Qs Ad]
+B awarded -2
+A awarded 2
+
+Round #17, A (8), B (-8)
+A posts blind 1
+B posts blind 2
+A dealt [3d 7h]
+B dealt [8s 3h]
+A calls
+B checks
+Flop [As 9s Tc], A (2), B (2)
+Redraw reveal for 0: WH1 X3h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X3d
+A redraws hole card 0 and checks
+Turn [As 9s Tc 5s], A (2), B (2)
+B checks
+A checks
+River [As 9s Tc 5s 5d], A (2), B (2)
+B checks
+A checks
+A shows [Td 7h]
+B shows [8s Th]
+A awarded 0
+B awarded 0
+
+Round #18, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [4h 8h]
+A dealt [5s 7c]
+B calls
+A checks
+Flop [As 3c Jh], B (2), A (2)
+Redraw reveal for 0: WH0 X5s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4h
+B redraws hole card 0 and checks
+Turn [As 3c Jh 4d], B (2), A (2)
+A checks
+B checks
+River [As 3c Jh 4d 9s], B (2), A (2)
+A checks
+B checks
+B shows [Js 8h]
+A shows [3d 7c]
+B awarded 2
+A awarded -2
+
+Round #19, A (6), B (-6)
+A posts blind 1
+B posts blind 2
+A dealt [3d Ad]
+B dealt [7s Ks]
+A calls
+B checks
+Flop [3c Qs Ah], A (2), B (2)
+Redraw reveal for 0: WH0 X7s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3d
+A redraws hole card 0 and checks
+Turn [3c Qs Ah 6s], A (2), B (2)
+B checks
+A checks
+River [3c Qs Ah 6s 7d], A (2), B (2)
+B checks
+A checks
+A shows [9d Ad]
+B shows [Th Ks]
+A awarded 2
+B awarded -2
+
+Round #20, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [Td Jc]
+A dealt [As 8c]
+B calls
+A checks
+Flop [6s Ad 6d], B (2), A (2)
+A checks
+B checks
+Turn [6s Ad 6d Ts], B (2), A (2)
+A checks
+B checks
+River [6s Ad 6d Ts 9d], B (2), A (2)
+A checks
+B checks
+B shows [Td Jc]
+A shows [As 8c]
+B awarded -2
+A awarded 2
+
+Round #21, A (10), B (-10)
+A posts blind 1
+B posts blind 2
+A dealt [5c 8d]
+B dealt [Js 3d]
+A calls
+B checks
+Flop [2d 7s 9s], A (2), B (2)
+Redraw reveal for 0: WH1 X3d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5c
+A redraws hole card 0 and checks
+Turn [2d 7s 9s Jh], A (2), B (2)
+B checks
+A checks
+River [2d 7s 9s Jh Ad], A (2), B (2)
+B checks
+A checks
+A shows [6c 8d]
+B shows [Js 9c]
+A awarded -2
+B awarded 2
+
+Round #22, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [9h 5c]
+A dealt [2s Js]
+B calls
+A checks
+Flop [9c Ah 9s], B (2), A (2)
+Redraw reveal for 0: WH0 X2s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5c
+B redraws hole card 1 and checks
+Turn [9c Ah 9s 4d], B (2), A (2)
+A checks
+B checks
+River [9c Ah 9s 4d 6s], B (2), A (2)
+A checks
+B checks
+B shows [9h Kc]
+A shows [3d Js]
+B awarded 2
+A awarded -2
+
+Round #23, A (6), B (-6)
+A posts blind 1
+B posts blind 2
+A dealt [8c 2h]
+B dealt [3d Js]
+A calls
+B checks
+Flop [8d Ah 2s], A (2), B (2)
+Redraw reveal for 0: WH0 X3d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2h
+A redraws hole card 1 and checks
+Turn [8d Ah 2s 6d], A (2), B (2)
+B checks
+A checks
+River [8d Ah 2s 6d 6s], A (2), B (2)
+B checks
+A checks
+A shows [8c 7c]
+B shows [9s Js]
+A awarded 2
+B awarded -2
+
+Round #24, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [6s 3c]
+A dealt [7h 4h]
+B calls
+A checks
+Flop [3d 5c Th], B (2), A (2)
+Redraw reveal for 0: WH1 X4h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3c
+B redraws hole card 1 and checks
+Turn [3d 5c Th 8d], B (2), A (2)
+A checks
+B checks
+River [3d 5c Th 8d 8s], B (2), A (2)
+A checks
+B checks
+B shows [6s 8h]
+A shows [7h 4d]
+B awarded 2
+A awarded -2
+
+Round #25, A (6), B (-6)
+A posts blind 1
+B posts blind 2
+A dealt [Jh 9d]
+B dealt [6d Td]
+A calls
+B checks
+Flop [9c 5d 2h], A (2), B (2)
+Redraw reveal for 0: WH0 X6d
+B redraws hole card 0 and checks
+A checks
+Turn [9c 5d 2h Qh], A (2), B (2)
+B checks
+A checks
+River [9c 5d 2h Qh 6c], A (2), B (2)
+B checks
+A checks
+A shows [Jh 9d]
+B shows [Ks Td]
+A awarded 2
+B awarded -2
+
+Round #26, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [4d 9h]
+A dealt [8h 3s]
+B calls
+A checks
+Flop [Qc Kd Ts], B (2), A (2)
+Redraw reveal for 0: WH1 X3s
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X4d
+B redraws hole card 0 and checks
+Turn [Qc Kd Ts Js], B (2), A (2)
+A checks
+B checks
+River [Qc Kd Ts Js 2h], B (2), A (2)
+A checks
+B checks
+B shows [5c 9h]
+A shows [8h Ac]
+B awarded -2
+A awarded 2
+
+Round #27, A (10), B (-10)
+A posts blind 1
+B posts blind 2
+A dealt [7s 3c]
+B dealt [As Kd]
+A calls
+B checks
+Flop [Qc Td 9s], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X3c
+A redraws hole card 1 and checks
+Turn [Qc Td 9s 5h], A (2), B (2)
+B checks
+A checks
+River [Qc Td 9s 5h 5d], A (2), B (2)
+B checks
+A checks
+A shows [7s 4c]
+B shows [As Kd]
+A awarded -2
+B awarded 2
+
+Round #28, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [2s Qd]
+A dealt [Tc 8d]
+B calls
+A checks
+Flop [6s Ac 8h], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X2s
+B redraws hole card 0 and checks
+Turn [6s Ac 8h 5s], B (2), A (2)
+A checks
+B checks
+River [6s Ac 8h 5s Qh], B (2), A (2)
+A checks
+B checks
+B shows [7c Qd]
+A shows [Tc 8d]
+B awarded 2
+A awarded -2
+
+Round #29, A (6), B (-6)
+A posts blind 1
+B posts blind 2
+A dealt [Ks Th]
+B dealt [2h Qh]
+A calls
+B checks
+Flop [3c 5d 4c], A (2), B (2)
+Redraw reveal for 0: WH0 X2h
+B redraws hole card 0 and checks
+A checks
+Turn [3c 5d 4c 7c], A (2), B (2)
+B checks
+A checks
+River [3c 5d 4c 7c 8s], A (2), B (2)
+B checks
+A checks
+A shows [Ks Th]
+B shows [Jh Qh]
+A awarded 2
+B awarded -2
+
+Round #30, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [Tc Qh]
+A dealt [7s Qs]
+B calls
+A checks
+Flop [As Kc Jd], B (2), A (2)
+Redraw reveal for 0: WH0 X7s
+A redraws hole card 0 and checks
+B checks
+Turn [As Kc Jd 5c], B (2), A (2)
+A checks
+B checks
+River [As Kc Jd 5c Kh], B (2), A (2)
+A checks
+B checks
+B shows [Tc Qh]
+A shows [5d Qs]
+B awarded 2
+A awarded -2
+
+Round #31, A (6), B (-6)
+A posts blind 1
+B posts blind 2
+A dealt [Kc 6h]
+B dealt [7s 8s]
+A calls
+B checks
+Flop [Ac 4s Qc], A (2), B (2)
+Redraw reveal for 0: WH0 X7s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X6h
+A redraws hole card 1 and checks
+Turn [Ac 4s Qc 7d], A (2), B (2)
+B checks
+A checks
+River [Ac 4s Qc 7d 2h], A (2), B (2)
+B checks
+A checks
+A shows [Kc Kd]
+B shows [Jc 8s]
+A awarded 2
+B awarded -2
+
+Round #32, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [7s 2h]
+A dealt [Ac Ah]
+B calls
+A checks
+Flop [8s Js 2s], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X2h
+B redraws hole card 1 and checks
+Turn [8s Js 2s 7c], B (2), A (2)
+A checks
+B checks
+River [8s Js 2s 7c Td], B (2), A (2)
+A checks
+B checks
+B shows [7s 4d]
+A shows [Ac Ah]
+B awarded -2
+A awarded 2
+
+Round #33, A (10), B (-10)
+A posts blind 1
+B posts blind 2
+A dealt [3s 2s]
+B dealt [Kc 9s]
+A calls
+B checks
+Flop [Kd 3h 8h], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X2s
+A redraws hole card 1 and checks
+Turn [Kd 3h 8h Ts], A (2), B (2)
+B checks
+A checks
+River [Kd 3h 8h Ts 2d], A (2), B (2)
+B checks
+A checks
+A shows [3s Ad]
+B shows [Kc 9s]
+A awarded -2
+B awarded 2
+
+Round #34, B (-8), A (8)
+B posts blind 1
+A posts blind 2
+B dealt [5c 8s]
+A dealt [Ah 4h]
+B calls
+A checks
+Flop [6h 5h 2d], B (2), A (2)
+Redraw reveal for 0: WH1 X4h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5c
+B redraws hole card 0 and checks
+Turn [6h 5h 2d 7h], B (2), A (2)
+A checks
+B checks
+River [6h 5h 2d 7h 7c], B (2), A (2)
+A checks
+B checks
+B shows [Qd 8s]
+A shows [Ah Ks]
+B awarded -2
+A awarded 2
+
+Round #35, A (10), B (-10)
+A posts blind 1
+B posts blind 2
+A dealt [3h Js]
+B dealt [2s 4s]
+A calls
+B checks
+Flop [2h 7c 7h], A (2), B (2)
+Redraw reveal for 0: WH0 X2s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3h
+A redraws hole card 0 and checks
+Turn [2h 7c 7h 6h], A (2), B (2)
+B checks
+A checks
+River [2h 7c 7h 6h Ks], A (2), B (2)
+B checks
+A checks
+A shows [4d Js]
+B shows [Tc 4s]
+A awarded 2
+B awarded -2
+
+Round #36, B (-12), A (12)
+B posts blind 1
+A posts blind 2
+B dealt [Kc 8s]
+A dealt [As 4h]
+B calls
+A checks
+Flop [9h 5c 9s], B (2), A (2)
+Redraw reveal for 0: WH1 X4h
+A redraws hole card 1 and checks
+B checks
+Turn [9h 5c 9s 9d], B (2), A (2)
+A checks
+B checks
+River [9h 5c 9s 9d 6d], B (2), A (2)
+A checks
+B checks
+B shows [Kc 8s]
+A shows [As 5h]
+B awarded -2
+A awarded 2
+
+Round #37, A (14), B (-14)
+A posts blind 1
+B posts blind 2
+A dealt [9s 7s]
+B dealt [3c Ad]
+A calls
+B checks
+Flop [7h 8c 4d], A (2), B (2)
+Redraw reveal for 0: WH0 X3c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7s
+A redraws hole card 1 and checks
+Turn [7h 8c 4d Kc], A (2), B (2)
+B checks
+A checks
+River [7h 8c 4d Kc 9h], A (2), B (2)
+B checks
+A checks
+A shows [9s 9c]
+B shows [Th Ad]
+A awarded 2
+B awarded -2
+
+Round #38, B (-16), A (16)
+B posts blind 1
+A posts blind 2
+B dealt [2c 5c]
+A dealt [Ad Jc]
+B calls
+A checks
+Flop [8s 3c Jd], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X2c
+B redraws hole card 0 and checks
+Turn [8s 3c Jd 4s], B (2), A (2)
+A checks
+B checks
+River [8s 3c Jd 4s Ah], B (2), A (2)
+A checks
+B checks
+B shows [Jh 5c]
+A shows [Ad Jc]
+B awarded -2
+A awarded 2
+
+Round #39, A (18), B (-18)
+A posts blind 1
+B posts blind 2
+A dealt [7s 2h]
+B dealt [8s 3d]
+A calls
+B checks
+Flop [7d Qs 2c], A (2), B (2)
+Redraw reveal for 0: WH1 X3d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2h
+A redraws hole card 1 and checks
+Turn [7d Qs 2c 5s], A (2), B (2)
+B checks
+A checks
+River [7d Qs 2c 5s As], A (2), B (2)
+B checks
+A checks
+A shows [7s Qc]
+B shows [8s Th]
+A awarded 2
+B awarded -2
+
+Round #40, B (-20), A (20)
+B posts blind 1
+A posts blind 2
+B dealt [Th 7s]
+A dealt [Ts Jh]
+B calls
+A checks
+Flop [Td 5c 4d], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X7s
+B redraws hole card 1 and checks
+Turn [Td 5c 4d 5d], B (2), A (2)
+A checks
+B checks
+River [Td 5c 4d 5d 8s], B (2), A (2)
+A checks
+B checks
+B shows [Th Qh]
+A shows [Ts Jh]
+B awarded 2
+A awarded -2
+
+Round #41, A (18), B (-18)
+A posts blind 1
+B posts blind 2
+A dealt [Ah Ad]
+B dealt [5s 7d]
+A calls
+B checks
+Flop [4s 2h 7s], A (2), B (2)
+Redraw reveal for 0: WH0 X5s
+B redraws hole card 0 and checks
+A checks
+Turn [4s 2h 7s 8c], A (2), B (2)
+B checks
+A checks
+River [4s 2h 7s 8c Tc], A (2), B (2)
+B checks
+A checks
+A shows [Ah Ad]
+B shows [9c 7d]
+A awarded 2
+B awarded -2
+
+Round #42, B (-20), A (20)
+B posts blind 1
+A posts blind 2
+B dealt [Td Qs]
+A dealt [9c 3s]
+B calls
+A checks
+Flop [Kc 8d 6s], B (2), A (2)
+Redraw reveal for 0: WH1 X3s
+A redraws hole card 1 and checks
+B checks
+Turn [Kc 8d 6s Th], B (2), A (2)
+A checks
+B checks
+River [Kc 8d 6s Th 3d], B (2), A (2)
+A checks
+B checks
+B shows [Td Qs]
+A shows [9c 7s]
+B awarded -2
+A awarded 2
+
+Round #43, A (22), B (-22)
+A posts blind 1
+B posts blind 2
+A dealt [Tc 5d]
+B dealt [9c 4s]
+A calls
+B checks
+Flop [Js Jd 7h], A (2), B (2)
+Redraw reveal for 0: WH1 X4s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X5d
+A redraws hole card 1 and checks
+Turn [Js Jd 7h 3h], A (2), B (2)
+B checks
+A checks
+River [Js Jd 7h 3h As], A (2), B (2)
+B checks
+A checks
+A shows [Tc Ts]
+B shows [9c 5h]
+A awarded 2
+B awarded -2
+
+Round #44, B (-24), A (24)
+B posts blind 1
+A posts blind 2
+B dealt [5c 9s]
+A dealt [9c 7c]
+B calls
+A checks
+Flop [3d Ah 6h], B (2), A (2)
+Redraw reveal for 0: WH1 X7c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5c
+B redraws hole card 0 and checks
+Turn [3d Ah 6h 2d], B (2), A (2)
+A checks
+B checks
+River [3d Ah 6h 2d 8c], B (2), A (2)
+A checks
+B checks
+B shows [Ts 9s]
+A shows [9c 6c]
+B awarded -2
+A awarded 2
+
+Round #45, A (26), B (-26)
+A posts blind 1
+B posts blind 2
+A dealt [5h 8h]
+B dealt [8c 2s]
+A calls
+B checks
+Flop [6h Js Tc], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5h
+A redraws hole card 0 and checks
+Turn [6h Js Tc 5d], A (2), B (2)
+B checks
+A checks
+River [6h Js Tc 5d 4s], A (2), B (2)
+B checks
+A checks
+A shows [Ac 8h]
+B shows [8c Jd]
+A awarded -2
+B awarded 2
+
+Round #46, B (-24), A (24)
+B posts blind 1
+A posts blind 2
+B dealt [5h 8c]
+A dealt [5c Th]
+B calls
+A checks
+Flop [Qs 2h Tc], B (2), A (2)
+Redraw reveal for 0: WH0 X5c
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X5h
+B redraws hole card 0 and checks
+Turn [Qs 2h Tc 6h], B (2), A (2)
+A checks
+B checks
+River [Qs 2h Tc 6h 4d], B (2), A (2)
+A checks
+B checks
+B shows [7d 8c]
+A shows [Kh Th]
+B awarded -2
+A awarded 2
+
+Round #47, A (26), B (-26)
+A posts blind 1
+B posts blind 2
+A dealt [Qs 3c]
+B dealt [9c 4s]
+A calls
+B checks
+Flop [Tc 6s Ks], A (2), B (2)
+Redraw reveal for 0: WH1 X4s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3c
+A redraws hole card 1 and checks
+Turn [Tc 6s Ks Ah], A (2), B (2)
+B checks
+A checks
+River [Tc 6s Ks Ah 3d], A (2), B (2)
+B checks
+A checks
+A shows [Qs 5h]
+B shows [9c 8h]
+A awarded 2
+B awarded -2
+
+Round #48, B (-28), A (28)
+B posts blind 1
+A posts blind 2
+B dealt [As 6s]
+A dealt [7s 4d]
+B calls
+A checks
+Flop [5d 3s 2h], B (2), A (2)
+Redraw reveal for 0: WH1 X4d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X6s
+B redraws hole card 1 and checks
+Turn [5d 3s 2h Jh], B (2), A (2)
+A checks
+B checks
+River [5d 3s 2h Jh Ad], B (2), A (2)
+A checks
+B checks
+B shows [As 7h]
+A shows [7s 7d]
+B awarded 2
+A awarded -2
+
+Round #49, A (26), B (-26)
+A posts blind 1
+B posts blind 2
+A dealt [Ad 7c]
+B dealt [9s Ah]
+A calls
+B checks
+Flop [6d Qc 2c], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X7c
+A redraws hole card 1 and checks
+Turn [6d Qc 2c 4h], A (2), B (2)
+B checks
+A checks
+River [6d Qc 2c 4h 9d], A (2), B (2)
+B checks
+A checks
+A shows [Ad Jh]
+B shows [9s Ah]
+A awarded -2
+B awarded 2
+
+Round #50, B (-24), A (24)
+B posts blind 1
+A posts blind 2
+B dealt [Ah Td]
+A dealt [9h 7h]
+B calls
+A checks
+Flop [2s Jc 9d], B (2), A (2)
+Redraw reveal for 0: WH1 X7h
+A redraws hole card 1 and checks
+B checks
+Turn [2s Jc 9d 5h], B (2), A (2)
+A checks
+B checks
+River [2s Jc 9d 5h 2c], B (2), A (2)
+A checks
+B checks
+B shows [Ah Td]
+A shows [9h Th]
+B awarded -2
+A awarded 2
+
+Round #51, A (26), B (-26)
+A posts blind 1
+B posts blind 2
+A dealt [Ts 2d]
+B dealt [5s 8c]
+A calls
+B checks
+Flop [3s 7c Th], A (2), B (2)
+Redraw reveal for 0: WH0 X5s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2d
+A redraws hole card 1 and checks
+Turn [3s 7c Th Tc], A (2), B (2)
+B checks
+A checks
+River [3s 7c Th Tc Ks], A (2), B (2)
+B checks
+A checks
+A shows [Ts 6s]
+B shows [Ac 8c]
+A awarded 2
+B awarded -2
+
+Round #52, B (-28), A (28)
+B posts blind 1
+A posts blind 2
+B dealt [Jd Jc]
+A dealt [Ah 8c]
+B calls
+A checks
+Flop [Td Qs Kh], B (2), A (2)
+A checks
+B checks
+Turn [Td Qs Kh 9c], B (2), A (2)
+A checks
+B checks
+River [Td Qs Kh 9c 8h], B (2), A (2)
+A checks
+B checks
+B shows [Jd Jc]
+A shows [Ah 8c]
+B awarded 2
+A awarded -2
+
+Round #53, A (26), B (-26)
+A posts blind 1
+B posts blind 2
+A dealt [3s 4c]
+B dealt [Js Kc]
+A calls
+B checks
+Flop [Qh 2c 8d], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X3s
+A redraws hole card 0 and checks
+Turn [Qh 2c 8d 3d], A (2), B (2)
+B checks
+A checks
+River [Qh 2c 8d 3d 4d], A (2), B (2)
+B checks
+A checks
+A shows [6h 4c]
+B shows [Js Kc]
+A awarded 2
+B awarded -2
+
+Round #54, B (-28), A (28)
+B posts blind 1
+A posts blind 2
+B dealt [9s Qh]
+A dealt [8h 4c]
+B calls
+A checks
+Flop [7c Js 6c], B (2), A (2)
+Redraw reveal for 0: WH1 X4c
+A redraws hole card 1 and checks
+B checks
+Turn [7c Js 6c 5h], B (2), A (2)
+A checks
+B checks
+River [7c Js 6c 5h Kc], B (2), A (2)
+A checks
+B checks
+B shows [9s Qh]
+A shows [8h 7h]
+B awarded -2
+A awarded 2
+
+Round #55, A (30), B (-30)
+A posts blind 1
+B posts blind 2
+A dealt [2h 9d]
+B dealt [Jh Qc]
+A calls
+B checks
+Flop [7s Ts Tc], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X2h
+A redraws hole card 0 and checks
+Turn [7s Ts Tc Jc], A (2), B (2)
+B checks
+A checks
+River [7s Ts Tc Jc 3d], A (2), B (2)
+B checks
+A checks
+A shows [8h 9d]
+B shows [Jh Qc]
+A awarded 2
+B awarded -2
+
+Round #56, B (-32), A (32)
+B posts blind 1
+A posts blind 2
+B dealt [As 2h]
+A dealt [5h Ah]
+B calls
+A checks
+Flop [7h Qs 3c], B (2), A (2)
+Redraw reveal for 0: WH0 X5h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2h
+B redraws hole card 1 and checks
+Turn [7h Qs 3c Ts], B (2), A (2)
+A checks
+B checks
+River [7h Qs 3c Ts 6c], B (2), A (2)
+A checks
+B checks
+B shows [As 7c]
+A shows [7d Ah]
+B awarded 0
+A awarded 0
+
+Round #57, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [Ad Qh]
+B dealt [4d 4c]
+A calls
+B checks
+Flop [6s 3s 5h], A (2), B (2)
+Redraw reveal for 0: WH0 X4d
+B redraws hole card 0 and checks
+A checks
+Turn [6s 3s 5h Kc], A (2), B (2)
+B checks
+A checks
+River [6s 3s 5h Kc 9d], A (2), B (2)
+B checks
+A checks
+A shows [Ad Qh]
+B shows [2c 4c]
+A awarded -2
+B awarded 2
+
+Round #58, B (-30), A (30)
+B posts blind 1
+A posts blind 2
+B dealt [6s Ts]
+A dealt [Jc 5d]
+B calls
+A checks
+Flop [4s Tc Qh], B (2), A (2)
+Redraw reveal for 0: WH1 X5d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6s
+B redraws hole card 0 and checks
+Turn [4s Tc Qh 7c], B (2), A (2)
+A checks
+B checks
+River [4s Tc Qh 7c 7s], B (2), A (2)
+A checks
+B checks
+B shows [5s Ts]
+A shows [Jc 8s]
+B awarded 2
+A awarded -2
+
+Round #59, A (28), B (-28)
+A posts blind 1
+B posts blind 2
+A dealt [9c 9s]
+B dealt [Kc 2h]
+A calls
+B checks
+Flop [3d Kd 4c], A (2), B (2)
+Redraw reveal for 0: WH1 X2h
+B redraws hole card 1 and checks
+A checks
+Turn [3d Kd 4c 9h], A (2), B (2)
+B checks
+A checks
+River [3d Kd 4c 9h 6s], A (2), B (2)
+B checks
+A checks
+A shows [9c 9s]
+B shows [Kc 2s]
+A awarded 2
+B awarded -2
+
+Round #60, B (-30), A (30)
+B posts blind 1
+A posts blind 2
+B dealt [9d 5s]
+A dealt [4c Qh]
+B calls
+A checks
+Flop [9h 3d 2c], B (2), A (2)
+Redraw reveal for 0: WH0 X4c
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5s
+B redraws hole card 1 and checks
+Turn [9h 3d 2c 8h], B (2), A (2)
+A checks
+B checks
+River [9h 3d 2c 8h 6c], B (2), A (2)
+A checks
+B checks
+B shows [9d 5c]
+A shows [4h Qh]
+B awarded 2
+A awarded -2
+
+Round #61, A (28), B (-28)
+A posts blind 1
+B posts blind 2
+A dealt [Th Qd]
+B dealt [Kd Ac]
+A calls
+B checks
+Flop [9d Qh 5d], A (2), B (2)
+B checks
+A checks
+Turn [9d Qh 5d 8h], A (2), B (2)
+B checks
+A checks
+River [9d Qh 5d 8h 8c], A (2), B (2)
+B checks
+A checks
+A shows [Th Qd]
+B shows [Kd Ac]
+A awarded 2
+B awarded -2
+
+Round #62, B (-30), A (30)
+B posts blind 1
+A posts blind 2
+B dealt [8d 8c]
+A dealt [3h 2s]
+B calls
+A checks
+Flop [6h 5s 5d], B (2), A (2)
+Redraw reveal for 0: WH1 X2s
+A redraws hole card 1 and checks
+B checks
+Turn [6h 5s 5d Ts], B (2), A (2)
+A checks
+B checks
+River [6h 5s 5d Ts 8h], B (2), A (2)
+A checks
+B checks
+B shows [8d 8c]
+A shows [3h Jd]
+B awarded 2
+A awarded -2
+
+Round #63, A (28), B (-28)
+A posts blind 1
+B posts blind 2
+A dealt [Tc 4c]
+B dealt [4h 5s]
+A calls
+B checks
+Flop [7d 8d Ts], A (2), B (2)
+Redraw reveal for 0: WH0 X4h
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X4c
+A redraws hole card 1 and checks
+Turn [7d 8d Ts 3s], A (2), B (2)
+B checks
+A checks
+River [7d 8d Ts 3s 9s], A (2), B (2)
+B checks
+A checks
+A shows [Tc As]
+B shows [9h 5s]
+A awarded 2
+B awarded -2
+
+Round #64, B (-30), A (30)
+B posts blind 1
+A posts blind 2
+B dealt [6h 9h]
+A dealt [Tc 8c]
+B calls
+A checks
+Flop [7c Qd 8d], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X6h
+B redraws hole card 0 and checks
+Turn [7c Qd 8d Jc], B (2), A (2)
+A checks
+B checks
+River [7c Qd 8d Jc 3s], B (2), A (2)
+A checks
+B checks
+B shows [6c 9h]
+A shows [Tc 8c]
+B awarded -2
+A awarded 2
+
+Round #65, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [8s 4h]
+B dealt [4c Ts]
+A calls
+B checks
+Flop [Ad 2h 9d], A (2), B (2)
+Redraw reveal for 0: WH0 X4c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X4h
+A redraws hole card 1 and checks
+Turn [Ad 2h 9d Jd], A (2), B (2)
+B checks
+A checks
+River [Ad 2h 9d Jd 4d], A (2), B (2)
+B checks
+A checks
+A shows [8s 6d]
+B shows [9c Ts]
+A awarded 2
+B awarded -2
+
+Round #66, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [6d Qc]
+A dealt [7s 6c]
+B calls
+A checks
+Flop [6s Js Kh], B (2), A (2)
+Redraw reveal for 0: WH1 X6c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6d
+B redraws hole card 0 and checks
+Turn [6s Js Kh Jc], B (2), A (2)
+A checks
+B checks
+River [6s Js Kh Jc 4d], B (2), A (2)
+A checks
+B checks
+B shows [7d Qc]
+A shows [7s Ks]
+B awarded -2
+A awarded 2
+
+Round #67, A (36), B (-36)
+A posts blind 1
+B posts blind 2
+A dealt [7d 3h]
+B dealt [8c 6s]
+A calls
+B checks
+Flop [Qc 6c 6h], A (2), B (2)
+Redraw reveal for 0: WH1 X6s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3h
+A redraws hole card 1 and checks
+Turn [Qc 6c 6h Ah], A (2), B (2)
+B checks
+A checks
+River [Qc 6c 6h Ah 8s], A (2), B (2)
+B checks
+A checks
+A shows [7d 9d]
+B shows [8c Ks]
+A awarded -2
+B awarded 2
+
+Round #68, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [Ad Kh]
+A dealt [Ac Tc]
+B calls
+A checks
+Flop [8c Kd As], B (2), A (2)
+A checks
+B checks
+Turn [8c Kd As Ah], B (2), A (2)
+A checks
+B checks
+River [8c Kd As Ah Qc], B (2), A (2)
+A checks
+B checks
+B shows [Ad Kh]
+A shows [Ac Tc]
+B awarded 2
+A awarded -2
+
+Round #69, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [6c Kh]
+B dealt [6h 7d]
+A calls
+B checks
+Flop [4d Ks Jh], A (2), B (2)
+Redraw reveal for 0: WH0 X6h
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6c
+A redraws hole card 0 and checks
+Turn [4d Ks Jh Ac], A (2), B (2)
+B checks
+A checks
+River [4d Ks Jh Ac Qh], A (2), B (2)
+B checks
+A checks
+A shows [7h Kh]
+B shows [5c 7d]
+A awarded 2
+B awarded -2
+
+Round #70, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [2h 5h]
+A dealt [Kd 7h]
+B calls
+A checks
+Flop [Qd 8h 2d], B (2), A (2)
+Redraw reveal for 0: WH1 X7h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2h
+B redraws hole card 0 and checks
+Turn [Qd 8h 2d 5d], B (2), A (2)
+A checks
+B checks
+River [Qd 8h 2d 5d 5s], B (2), A (2)
+A checks
+B checks
+B shows [6h 5h]
+A shows [Kd 2s]
+B awarded 2
+A awarded -2
+
+Round #71, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [Ac 8d]
+B dealt [As 4s]
+A calls
+B checks
+Flop [Qc 3h Jd], A (2), B (2)
+Redraw reveal for 0: WH1 X4s
+B redraws hole card 1 and checks
+A checks
+Turn [Qc 3h Jd 7s], A (2), B (2)
+B checks
+A checks
+River [Qc 3h Jd 7s Qh], A (2), B (2)
+B checks
+A checks
+A shows [Ac 8d]
+B shows [As 6h]
+A awarded 2
+B awarded -2
+
+Round #72, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [Ah Js]
+A dealt [5h Kd]
+B calls
+A checks
+Flop [Qh 8s Kc], B (2), A (2)
+Redraw reveal for 0: WH0 X5h
+A redraws hole card 0 and checks
+B checks
+Turn [Qh 8s Kc 3d], B (2), A (2)
+A checks
+B checks
+River [Qh 8s Kc 3d 9s], B (2), A (2)
+A checks
+B checks
+B shows [Ah Js]
+A shows [2c Kd]
+B awarded -2
+A awarded 2
+
+Round #73, A (36), B (-36)
+A posts blind 1
+B posts blind 2
+A dealt [Ks 5d]
+B dealt [5s Jc]
+A calls
+B checks
+Flop [Kc Qd 3h], A (2), B (2)
+Redraw reveal for 0: WH0 X5s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5d
+A redraws hole card 1 and checks
+Turn [Kc Qd 3h 9d], A (2), B (2)
+B checks
+A checks
+River [Kc Qd 3h 9d 6d], A (2), B (2)
+B checks
+A checks
+A shows [Ks Qs]
+B shows [5c Jc]
+A awarded 2
+B awarded -2
+
+Round #74, B (-38), A (38)
+B posts blind 1
+A posts blind 2
+B dealt [Ts Jc]
+A dealt [Ad 5h]
+B calls
+A checks
+Flop [4c 8c 9s], B (2), A (2)
+Redraw reveal for 0: WH1 X5h
+A redraws hole card 1 and checks
+B checks
+Turn [4c 8c 9s Qd], B (2), A (2)
+A checks
+B checks
+River [4c 8c 9s Qd 5d], B (2), A (2)
+A checks
+B checks
+B shows [Ts Jc]
+A shows [Ad 2h]
+B awarded 2
+A awarded -2
+
+Round #75, A (36), B (-36)
+A posts blind 1
+B posts blind 2
+A dealt [Qc 7d]
+B dealt [Qd 4c]
+A calls
+B checks
+Flop [Qh 7c Kc], A (2), B (2)
+Redraw reveal for 0: WH1 X4c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X7d
+A redraws hole card 1 and checks
+Turn [Qh 7c Kc 4h], A (2), B (2)
+B checks
+A checks
+River [Qh 7c Kc 4h Js], A (2), B (2)
+B checks
+A checks
+A shows [Qc 6d]
+B shows [Qd 2d]
+A awarded 0
+B awarded 0
+
+Round #76, B (-36), A (36)
+B posts blind 1
+A posts blind 2
+B dealt [Kc Qs]
+A dealt [3h 6c]
+B calls
+A checks
+Flop [3d Jd 2c], B (2), A (2)
+Redraw reveal for 0: WH0 X3h
+A redraws hole card 0 and checks
+B checks
+Turn [3d Jd 2c Ah], B (2), A (2)
+A checks
+B checks
+River [3d Jd 2c Ah As], B (2), A (2)
+A checks
+B checks
+B shows [Kc Qs]
+A shows [4s 6c]
+B awarded 2
+A awarded -2
+
+Round #77, A (34), B (-34)
+A posts blind 1
+B posts blind 2
+A dealt [9s 6d]
+B dealt [3d 3s]
+A calls
+B checks
+Flop [7s 9c 8d], A (2), B (2)
+Redraw reveal for 0: WH0 X3d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X6d
+A redraws hole card 1 and checks
+Turn [7s 9c 8d Ad], A (2), B (2)
+B checks
+A checks
+River [7s 9c 8d Ad 4s], A (2), B (2)
+B checks
+A checks
+A shows [9s 5s]
+B shows [Kh 3s]
+A awarded 2
+B awarded -2
+
+Round #78, B (-36), A (36)
+B posts blind 1
+A posts blind 2
+B dealt [2c 2s]
+A dealt [Td 7d]
+B calls
+A checks
+Flop [4h Ts 3s], B (2), A (2)
+Redraw reveal for 0: WH1 X7d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2c
+B redraws hole card 0 and checks
+Turn [4h Ts 3s 3h], B (2), A (2)
+A checks
+B checks
+River [4h Ts 3s 3h 8c], B (2), A (2)
+A checks
+B checks
+B shows [5d 2s]
+A shows [Td 9h]
+B awarded -2
+A awarded 2
+
+Round #79, A (38), B (-38)
+A posts blind 1
+B posts blind 2
+A dealt [Qh Ad]
+B dealt [Ac Qc]
+A calls
+B checks
+Flop [9h Qd Kh], A (2), B (2)
+B checks
+A checks
+Turn [9h Qd Kh 2c], A (2), B (2)
+B checks
+A checks
+River [9h Qd Kh 2c Kd], A (2), B (2)
+B checks
+A checks
+A shows [Qh Ad]
+B shows [Ac Qc]
+A awarded 0
+B awarded 0
+
+Round #80, B (-38), A (38)
+B posts blind 1
+A posts blind 2
+B dealt [Kh Js]
+A dealt [4h Tc]
+B calls
+A checks
+Flop [3s Td 4c], B (2), A (2)
+Redraw reveal for 0: WH0 X4h
+A redraws hole card 0 and checks
+B checks
+Turn [3s Td 4c 8d], B (2), A (2)
+A checks
+B checks
+River [3s Td 4c 8d 9c], B (2), A (2)
+A checks
+B checks
+B shows [Kh Js]
+A shows [2c Tc]
+B awarded -2
+A awarded 2
+
+Round #81, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [6s 7s]
+B dealt [7d 3c]
+A calls
+B checks
+Flop [5h 3d 6h], A (2), B (2)
+Redraw reveal for 0: WH1 X3c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6s
+A redraws hole card 0 and checks
+Turn [5h 3d 6h 5c], A (2), B (2)
+B checks
+A checks
+River [5h 3d 6h 5c Tc], A (2), B (2)
+B checks
+A checks
+A shows [8s 7s]
+B shows [7d 4d]
+A awarded -2
+B awarded 2
+
+Round #82, B (-38), A (38)
+B posts blind 1
+A posts blind 2
+B dealt [9h As]
+A dealt [8d 7s]
+B calls
+A checks
+Flop [2h 9c 9s], B (2), A (2)
+Redraw reveal for 0: WH1 X7s
+A redraws hole card 1 and checks
+B checks
+Turn [2h 9c 9s 4d], B (2), A (2)
+A checks
+B checks
+River [2h 9c 9s 4d 7d], B (2), A (2)
+A checks
+B checks
+B shows [9h As]
+A shows [8d 2s]
+B awarded 2
+A awarded -2
+
+Round #83, A (36), B (-36)
+A posts blind 1
+B posts blind 2
+A dealt [5h 7d]
+B dealt [2d 2s]
+A calls
+B checks
+Flop [Ks Td 6c], A (2), B (2)
+Redraw reveal for 0: WH0 X2d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X5h
+A redraws hole card 0 and checks
+Turn [Ks Td 6c Tc], A (2), B (2)
+B checks
+A checks
+River [Ks Td 6c Tc Qs], A (2), B (2)
+B checks
+A checks
+A shows [6h 7d]
+B shows [Qh 2s]
+A awarded -2
+B awarded 2
+
+Round #84, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [Qh Kc]
+A dealt [5c 4d]
+B calls
+A checks
+Flop [2s Ac Ad], B (2), A (2)
+Redraw reveal for 0: WH1 X4d
+A redraws hole card 1 and checks
+B checks
+Turn [2s Ac Ad 5h], B (2), A (2)
+A checks
+B checks
+River [2s Ac Ad 5h Th], B (2), A (2)
+A checks
+B checks
+B shows [Qh Kc]
+A shows [5c 8s]
+B awarded -2
+A awarded 2
+
+Round #85, A (36), B (-36)
+A posts blind 1
+B posts blind 2
+A dealt [8c 3s]
+B dealt [2d 2s]
+A calls
+B checks
+Flop [Ah 9s Qd], A (2), B (2)
+Redraw reveal for 0: WH0 X2d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X3s
+A redraws hole card 1 and checks
+Turn [Ah 9s Qd Qs], A (2), B (2)
+B checks
+A checks
+River [Ah 9s Qd Qs 4c], A (2), B (2)
+B checks
+A checks
+A shows [8c Td]
+B shows [6d 2s]
+A awarded 2
+B awarded -2
+
+Round #86, B (-38), A (38)
+B posts blind 1
+A posts blind 2
+B dealt [Qs 3d]
+A dealt [Qh 6c]
+B calls
+A checks
+Flop [5c 2s Kh], B (2), A (2)
+Redraw reveal for 0: WH1 X6c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3d
+B redraws hole card 1 and checks
+Turn [5c 2s Kh Qd], B (2), A (2)
+A checks
+B checks
+River [5c 2s Kh Qd Td], B (2), A (2)
+A checks
+B checks
+B shows [Qs 9d]
+A shows [Qh Js]
+B awarded -2
+A awarded 2
+
+Round #87, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [Kc 6d]
+B dealt [Ac 2s]
+A calls
+B checks
+Flop [2c Qh 4s], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X6d
+A redraws hole card 1 and checks
+Turn [2c Qh 4s 5c], A (2), B (2)
+B checks
+A checks
+River [2c Qh 4s 5c 6c], A (2), B (2)
+B checks
+A checks
+A shows [Kc Kh]
+B shows [Ac Qs]
+A awarded 2
+B awarded -2
+
+Round #88, B (-42), A (42)
+B posts blind 1
+A posts blind 2
+B dealt [As Js]
+A dealt [4c 6h]
+B calls
+A checks
+Flop [9h 3c 9d], B (2), A (2)
+Redraw reveal for 0: WH0 X4c
+A redraws hole card 0 and checks
+B checks
+Turn [9h 3c 9d Ad], B (2), A (2)
+A checks
+B checks
+River [9h 3c 9d Ad Td], B (2), A (2)
+A checks
+B checks
+B shows [As Js]
+A shows [9c 6h]
+B awarded -2
+A awarded 2
+
+Round #89, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [Kc 6s]
+B dealt [Ks 9d]
+A calls
+B checks
+Flop [6c 3s 7s], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X6s
+A redraws hole card 1 and checks
+Turn [6c 3s 7s 5h], A (2), B (2)
+B checks
+A checks
+River [6c 3s 7s 5h Kd], A (2), B (2)
+B checks
+A checks
+A shows [Kc 3h]
+B shows [Ks 9d]
+A awarded 2
+B awarded -2
+
+Round #90, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [Kh 3h]
+A dealt [8h 2h]
+B calls
+A checks
+Flop [7d Td 3d], B (2), A (2)
+Redraw reveal for 0: WH1 X2h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3h
+B redraws hole card 1 and checks
+Turn [7d Td 3d Qc], B (2), A (2)
+A checks
+B checks
+River [7d Td 3d Qc 5d], B (2), A (2)
+A checks
+B checks
+B shows [Kh 4d]
+A shows [8h 6s]
+B awarded 2
+A awarded -2
+
+Round #91, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [As 6d]
+B dealt [Kc Kh]
+A calls
+B checks
+Flop [Qs 4h 7d], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X6d
+A redraws hole card 1 and checks
+Turn [Qs 4h 7d 8s], A (2), B (2)
+B checks
+A checks
+River [Qs 4h 7d 8s 4d], A (2), B (2)
+B checks
+A checks
+A shows [As 7s]
+B shows [Kc Kh]
+A awarded -2
+B awarded 2
+
+Round #92, B (-42), A (42)
+B posts blind 1
+A posts blind 2
+B dealt [6s 7c]
+A dealt [Kd 5s]
+B calls
+A checks
+Flop [7s Ad Jh], B (2), A (2)
+Redraw reveal for 0: WH1 X5s
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6s
+B redraws hole card 0 and checks
+Turn [7s Ad Jh 5d], B (2), A (2)
+A checks
+B checks
+River [7s Ad Jh 5d Qd], B (2), A (2)
+A checks
+B checks
+B shows [Jc 7c]
+A shows [Kd 5c]
+B awarded 2
+A awarded -2
+
+Round #93, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [2s Qs]
+B dealt [5c 4c]
+A calls
+B checks
+Flop [2d 5d 9s], A (2), B (2)
+Redraw reveal for 0: WH1 X4c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2s
+A redraws hole card 0 and checks
+Turn [2d 5d 9s 6d], A (2), B (2)
+B checks
+A checks
+River [2d 5d 9s 6d 5h], A (2), B (2)
+B checks
+A checks
+A shows [3d Qs]
+B shows [5c 4h]
+A awarded -2
+B awarded 2
+
+Round #94, B (-38), A (38)
+B posts blind 1
+A posts blind 2
+B dealt [3h 8h]
+A dealt [9d Qc]
+B calls
+A checks
+Flop [4d 7d 3c], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X3h
+B redraws hole card 0 and checks
+Turn [4d 7d 3c 4h], B (2), A (2)
+A checks
+B checks
+River [4d 7d 3c 4h Kc], B (2), A (2)
+A checks
+B checks
+B shows [Td 8h]
+A shows [9d Qc]
+B awarded -2
+A awarded 2
+
+Round #95, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [9s Kd]
+B dealt [Qd Ts]
+A calls
+B checks
+Flop [Ah As 9h], A (2), B (2)
+B checks
+A checks
+Turn [Ah As 9h 6h], A (2), B (2)
+B checks
+A checks
+River [Ah As 9h 6h Kh], A (2), B (2)
+B checks
+A checks
+A shows [9s Kd]
+B shows [Qd Ts]
+A awarded 2
+B awarded -2
+
+Round #96, B (-42), A (42)
+B posts blind 1
+A posts blind 2
+B dealt [2s Ts]
+A dealt [8s 7d]
+B calls
+A checks
+Flop [Kd Kc Ac], B (2), A (2)
+Redraw reveal for 0: WH1 X7d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2s
+B redraws hole card 0 and checks
+Turn [Kd Kc Ac 8d], B (2), A (2)
+A checks
+B checks
+River [Kd Kc Ac 8d Jd], B (2), A (2)
+A checks
+B checks
+B shows [6s Ts]
+A shows [8s 7c]
+B awarded -2
+A awarded 2
+
+Round #97, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [Tc Jh]
+B dealt [6h 6d]
+A calls
+B checks
+Flop [4s 9d Ah], A (2), B (2)
+Redraw reveal for 0: WH0 X6h
+B redraws hole card 0 and checks
+A checks
+Turn [4s 9d Ah Kd], A (2), B (2)
+B checks
+A checks
+River [4s 9d Ah Kd 4d], A (2), B (2)
+B checks
+A checks
+A shows [Tc Jh]
+B shows [2h 6d]
+A awarded 2
+B awarded -2
+
+Round #98, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [4d 3d]
+A dealt [Js 9h]
+B calls
+A checks
+Flop [6c Ah 9d], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X3d
+B redraws hole card 1 and checks
+Turn [6c Ah 9d Ac], B (2), A (2)
+A checks
+B checks
+River [6c Ah 9d Ac 4s], B (2), A (2)
+A checks
+B checks
+B shows [4d Qc]
+A shows [Js 9h]
+B awarded -2
+A awarded 2
+
+Round #99, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [Kc 5h]
+B dealt [7h Qd]
+A calls
+B checks
+Flop [9c Kd 7s], A (2), B (2)
+Redraw reveal for 0: WH0 X7h
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5h
+A redraws hole card 1 and checks
+Turn [9c Kd 7s 6d], A (2), B (2)
+B checks
+A checks
+River [9c Kd 7s 6d 5d], A (2), B (2)
+B checks
+A checks
+A shows [Kc 3h]
+B shows [Ac Qd]
+A awarded 2
+B awarded -2
+
+Round #100, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [2d 9h]
+A dealt [Ah 5c]
+B calls
+A checks
+Flop [4d 8s Kh], B (2), A (2)
+Redraw reveal for 0: WH1 X5c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2d
+B redraws hole card 0 and checks
+Turn [4d 8s Kh 6c], B (2), A (2)
+A checks
+B checks
+River [4d 8s Kh 6c 5s], B (2), A (2)
+A checks
+B checks
+B shows [Qc 9h]
+A shows [Ah 9d]
+B awarded -2
+A awarded 2
+
+Round #101, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [8h 9h]
+B dealt [Qs 4c]
+A calls
+B checks
+Flop [6h 7s 2h], A (2), B (2)
+Redraw reveal for 0: WH1 X4c
+B redraws hole card 1 and checks
+A checks
+Turn [6h 7s 2h 8d], A (2), B (2)
+B checks
+A checks
+River [6h 7s 2h 8d 4d], A (2), B (2)
+B checks
+A checks
+A shows [8h 9h]
+B shows [Qs 9d]
+A awarded 2
+B awarded -2
+
+Round #102, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [5h 9c]
+A dealt [4h Qs]
+B calls
+A checks
+Flop [9d Th Jd], B (2), A (2)
+Redraw reveal for 0: WH0 X4h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X5h
+B redraws hole card 0 and checks
+Turn [9d Th Jd Ad], B (2), A (2)
+A checks
+B checks
+River [9d Th Jd Ad 6h], B (2), A (2)
+A checks
+B checks
+B shows [8c 9c]
+A shows [7s Qs]
+B awarded 2
+A awarded -2
+
+Round #103, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [8c Kd]
+B dealt [Qs Ac]
+A calls
+B checks
+Flop [7d 3h 8h], A (2), B (2)
+B checks
+A checks
+Turn [7d 3h 8h 4c], A (2), B (2)
+B checks
+A checks
+River [7d 3h 8h 4c 7c], A (2), B (2)
+B checks
+A checks
+A shows [8c Kd]
+B shows [Qs Ac]
+A awarded 2
+B awarded -2
+
+Round #104, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [2h Ks]
+A dealt [9s Tc]
+B calls
+A checks
+Flop [7s 6h Ac], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X2h
+B redraws hole card 0 and checks
+Turn [7s 6h Ac Qh], B (2), A (2)
+A checks
+B checks
+River [7s 6h Ac Qh Qd], B (2), A (2)
+A checks
+B checks
+B shows [3s Ks]
+A shows [9s Tc]
+B awarded 2
+A awarded -2
+
+Round #105, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [6s 7h]
+B dealt [3s Qd]
+A calls
+B checks
+Flop [Th 4s Jd], A (2), B (2)
+Redraw reveal for 0: WH0 X3s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6s
+A redraws hole card 0 and checks
+Turn [Th 4s Jd 9c], A (2), B (2)
+B checks
+A checks
+River [Th 4s Jd 9c 6d], A (2), B (2)
+B checks
+A checks
+A shows [2c 7h]
+B shows [Qc Qd]
+A awarded -2
+B awarded 2
+
+Round #106, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [8d Qd]
+A dealt [Td 3d]
+B calls
+A checks
+Flop [Js 9h Kc], B (2), A (2)
+Redraw reveal for 0: WH1 X3d
+A redraws hole card 1 and checks
+B checks
+Turn [Js 9h Kc 3h], B (2), A (2)
+A checks
+B checks
+River [Js 9h Kc 3h 7s], B (2), A (2)
+A checks
+B checks
+B shows [8d Qd]
+A shows [Td Ah]
+B awarded -2
+A awarded 2
+
+Round #107, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [6c 8h]
+B dealt [3s As]
+A calls
+B checks
+Flop [Qc 6h Qh], A (2), B (2)
+Redraw reveal for 0: WH0 X3s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6c
+A redraws hole card 0 and checks
+Turn [Qc 6h Qh Kc], A (2), B (2)
+B checks
+A checks
+River [Qc 6h Qh Kc 9c], A (2), B (2)
+B checks
+A checks
+A shows [Qs 8h]
+B shows [6d As]
+A awarded 2
+B awarded -2
+
+Round #108, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [Jh 9c]
+A dealt [6s 8c]
+B calls
+A checks
+Flop [Th Js 8h], B (2), A (2)
+Redraw reveal for 0: WH0 X6s
+A redraws hole card 0 and checks
+B checks
+Turn [Th Js 8h 4s], B (2), A (2)
+A checks
+B checks
+River [Th Js 8h 4s Ac], B (2), A (2)
+A checks
+B checks
+B shows [Jh 9c]
+A shows [Ts 8c]
+B awarded -2
+A awarded 2
+
+Round #109, A (56), B (-56)
+A posts blind 1
+B posts blind 2
+A dealt [9h 7s]
+B dealt [Qs Ad]
+A calls
+B checks
+Flop [Ks Ah 9d], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X7s
+A redraws hole card 1 and checks
+Turn [Ks Ah 9d Kd], A (2), B (2)
+B checks
+A checks
+River [Ks Ah 9d Kd 7d], A (2), B (2)
+B checks
+A checks
+A shows [9h Jd]
+B shows [Qs Ad]
+A awarded -2
+B awarded 2
+
+Round #110, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [6d 7s]
+A dealt [Ts 9h]
+B calls
+A checks
+Flop [6s 5h 5c], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X6d
+B redraws hole card 0 and checks
+Turn [6s 5h 5c 2d], B (2), A (2)
+A checks
+B checks
+River [6s 5h 5c 2d 9s], B (2), A (2)
+A checks
+B checks
+B shows [Td 7s]
+A shows [Ts 9h]
+B awarded -2
+A awarded 2
+
+Round #111, A (56), B (-56)
+A posts blind 1
+B posts blind 2
+A dealt [Tc 7s]
+B dealt [5h Js]
+A calls
+B checks
+Flop [5s 9d 9s], A (2), B (2)
+Redraw reveal for 0: WH0 X5h
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7s
+A redraws hole card 1 and checks
+Turn [5s 9d 9s 2h], A (2), B (2)
+B checks
+A checks
+River [5s 9d 9s 2h 7d], A (2), B (2)
+B checks
+A checks
+A shows [Tc Kc]
+B shows [2c Js]
+A awarded -2
+B awarded 2
+
+Round #112, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [Ts 9s]
+A dealt [7c 7s]
+B calls
+A checks
+Flop [Jd Kc 5s], B (2), A (2)
+Redraw reveal for 0: WH0 X7c
+A redraws hole card 0 and checks
+B checks
+Turn [Jd Kc 5s 5h], B (2), A (2)
+A checks
+B checks
+River [Jd Kc 5s 5h 8h], B (2), A (2)
+A checks
+B checks
+B shows [Ts 9s]
+A shows [8c 7s]
+B awarded -2
+A awarded 2
+
+Round #113, A (56), B (-56)
+A posts blind 1
+B posts blind 2
+A dealt [4d 6s]
+B dealt [5c 6d]
+A calls
+B checks
+Flop [Tc 4h Ks], A (2), B (2)
+Redraw reveal for 0: WH0 X5c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4d
+A redraws hole card 0 and checks
+Turn [Tc 4h Ks 9s], A (2), B (2)
+B checks
+A checks
+River [Tc 4h Ks 9s 6h], A (2), B (2)
+B checks
+A checks
+A shows [2h 6s]
+B shows [4s 6d]
+A awarded -2
+B awarded 2
+
+Round #114, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [3d 5d]
+A dealt [3h 5s]
+B calls
+A checks
+Flop [2s 5h Kc], B (2), A (2)
+Redraw reveal for 0: WH0 X3h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3d
+B redraws hole card 0 and checks
+Turn [2s 5h Kc 8s], B (2), A (2)
+A checks
+B checks
+River [2s 5h Kc 8s 8d], B (2), A (2)
+A checks
+B checks
+B shows [3c 5d]
+A shows [7d 5s]
+B awarded 0
+A awarded 0
+
+Round #115, A (54), B (-54)
+A posts blind 1
+B posts blind 2
+A dealt [2c 8s]
+B dealt [7s Jd]
+A calls
+B checks
+Flop [Jc 6s 2h], A (2), B (2)
+Redraw reveal for 0: WH0 X7s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X2c
+A redraws hole card 0 and checks
+Turn [Jc 6s 2h 8d], A (2), B (2)
+B checks
+A checks
+River [Jc 6s 2h 8d 7c], A (2), B (2)
+B checks
+A checks
+A shows [Qh 8s]
+B shows [6h Jd]
+A awarded -2
+B awarded 2
+
+Round #116, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [Ad Ah]
+A dealt [Qd Qs]
+B calls
+A checks
+Flop [5d Jc 9s], B (2), A (2)
+A checks
+B checks
+Turn [5d Jc 9s Jd], B (2), A (2)
+A checks
+B checks
+River [5d Jc 9s Jd 3h], B (2), A (2)
+A checks
+B checks
+B shows [Ad Ah]
+A shows [Qd Qs]
+B awarded 2
+A awarded -2
+
+Round #117, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [6c Td]
+B dealt [Th 2s]
+A calls
+B checks
+Flop [Tc 5s Kc], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6c
+A redraws hole card 0 and checks
+Turn [Tc 5s Kc 4d], A (2), B (2)
+B checks
+A checks
+River [Tc 5s Kc 4d 9d], A (2), B (2)
+B checks
+A checks
+A shows [9s Td]
+B shows [Th 5c]
+A awarded 2
+B awarded -2
+
+Round #118, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [Js 5c]
+A dealt [Jh Qs]
+B calls
+A checks
+Flop [Tc 7s Ad], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X5c
+B redraws hole card 1 and checks
+Turn [Tc 7s Ad 9c], B (2), A (2)
+A checks
+B checks
+River [Tc 7s Ad 9c Qc], B (2), A (2)
+A checks
+B checks
+B shows [Js Kh]
+A shows [Jh Qs]
+B awarded 2
+A awarded -2
+
+Round #119, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [Kc 6h]
+B dealt [Tc 6d]
+A calls
+B checks
+Flop [Ad 8h Th], A (2), B (2)
+Redraw reveal for 0: WH1 X6d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X6h
+A redraws hole card 1 and checks
+Turn [Ad 8h Th 5d], A (2), B (2)
+B checks
+A checks
+River [Ad 8h Th 5d Qc], A (2), B (2)
+B checks
+A checks
+A shows [Kc 2s]
+B shows [Tc 4h]
+A awarded -2
+B awarded 2
+
+Round #120, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [Qd 4d]
+A dealt [Ks 6c]
+B calls
+A checks
+Flop [8c 3h Jc], B (2), A (2)
+Redraw reveal for 0: WH1 X6c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X4d
+B redraws hole card 1 and checks
+Turn [8c 3h Jc 4s], B (2), A (2)
+A checks
+B checks
+River [8c 3h Jc 4s 7h], B (2), A (2)
+A checks
+B checks
+B shows [Qd Ad]
+A shows [Ks 9d]
+B awarded 2
+A awarded -2
+
+Round #121, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [Kh 6h]
+B dealt [3s 7h]
+A calls
+B checks
+Flop [6c Qd 8c], A (2), B (2)
+Redraw reveal for 0: WH0 X3s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X6h
+A redraws hole card 1 and checks
+Turn [6c Qd 8c 2d], A (2), B (2)
+B checks
+A checks
+River [6c Qd 8c 2d 2s], A (2), B (2)
+B checks
+A checks
+A shows [Kh 9h]
+B shows [9s 7h]
+A awarded 2
+B awarded -2
+
+Round #122, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [9s 9d]
+A dealt [7h 6h]
+B calls
+A checks
+Flop [2s 7s Js], B (2), A (2)
+Redraw reveal for 0: WH1 X6h
+A redraws hole card 1 and checks
+B checks
+Turn [2s 7s Js 6d], B (2), A (2)
+A checks
+B checks
+River [2s 7s Js 6d 4s], B (2), A (2)
+A checks
+B checks
+B shows [9s 9d]
+A shows [7h 7d]
+B awarded 2
+A awarded -2
+
+Round #123, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [Ts 5c]
+B dealt [8s 4c]
+A calls
+B checks
+Flop [Ah Kd Jc], A (2), B (2)
+Redraw reveal for 0: WH1 X4c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X5c
+A redraws hole card 1 and checks
+Turn [Ah Kd Jc 5h], A (2), B (2)
+B checks
+A checks
+River [Ah Kd Jc 5h Qs], A (2), B (2)
+B checks
+A checks
+A shows [Ts 6s]
+B shows [8s 8h]
+A awarded 2
+B awarded -2
+
+Round #124, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [4s 6h]
+A dealt [Jc 9c]
+B calls
+A checks
+Flop [2c Qd Tc], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X4s
+B redraws hole card 0 and checks
+Turn [2c Qd Tc 5c], B (2), A (2)
+A checks
+B checks
+River [2c Qd Tc 5c 3c], B (2), A (2)
+A checks
+B checks
+B shows [Kd 6h]
+A shows [Jc 9c]
+B awarded -2
+A awarded 2
+
+Round #125, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [4d Ac]
+B dealt [Ad Tc]
+A calls
+B checks
+Flop [Jc Qd 2d], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X4d
+A redraws hole card 0 and checks
+Turn [Jc Qd 2d 8c], A (2), B (2)
+B checks
+A checks
+River [Jc Qd 2d 8c Kh], A (2), B (2)
+B checks
+A checks
+A shows [6h Ac]
+B shows [Ad Tc]
+A awarded -2
+B awarded 2
+
+Round #126, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [Kh 4d]
+A dealt [6c Jc]
+B calls
+A checks
+Flop [7h 7s Kd], B (2), A (2)
+Redraw reveal for 0: WH0 X6c
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X4d
+B redraws hole card 1 and checks
+Turn [7h 7s Kd 9c], B (2), A (2)
+A checks
+B checks
+River [7h 7s Kd 9c Jd], B (2), A (2)
+A checks
+B checks
+B shows [Kh Kc]
+A shows [Ks Jc]
+B awarded 2
+A awarded -2
+
+Round #127, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [9d Jc]
+B dealt [Ks 4c]
+A calls
+B checks
+Flop [7h 3c 7d], A (2), B (2)
+Redraw reveal for 0: WH1 X4c
+B redraws hole card 1 and checks
+A checks
+Turn [7h 3c 7d Kd], A (2), B (2)
+B checks
+A checks
+River [7h 3c 7d Kd 6s], A (2), B (2)
+B checks
+A checks
+A shows [9d Jc]
+B shows [Ks 2d]
+A awarded -2
+B awarded 2
+
+Round #128, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [Kc 5d]
+A dealt [Th 2c]
+B calls
+A checks
+Flop [7h 6h 9s], B (2), A (2)
+Redraw reveal for 0: WH1 X2c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X5d
+B redraws hole card 1 and checks
+Turn [7h 6h 9s As], B (2), A (2)
+A checks
+B checks
+River [7h 6h 9s As Ks], B (2), A (2)
+A checks
+B checks
+B shows [Kc 2h]
+A shows [Th 8h]
+B awarded -2
+A awarded 2
+
+Round #129, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [3h 7c]
+B dealt [4c 6c]
+A calls
+B checks
+Flop [Td Qc 3c], A (2), B (2)
+Redraw reveal for 0: WH0 X4c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3h
+A redraws hole card 0 and checks
+Turn [Td Qc 3c 4h], A (2), B (2)
+B checks
+A checks
+River [Td Qc 3c 4h Ah], A (2), B (2)
+B checks
+A checks
+A shows [8s 7c]
+B shows [9h 6c]
+A awarded -2
+B awarded 2
+
+Round #130, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [Td Ad]
+A dealt [Qs 5c]
+B calls
+A checks
+Flop [Js 7c 9h], B (2), A (2)
+Redraw reveal for 0: WH1 X5c
+A redraws hole card 1 and checks
+B checks
+Turn [Js 7c 9h 8d], B (2), A (2)
+A checks
+B checks
+River [Js 7c 9h 8d 5s], B (2), A (2)
+A checks
+B checks
+B shows [Td Ad]
+A shows [Qs 7d]
+B awarded 2
+A awarded -2
+
+Round #131, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [7d 5c]
+B dealt [3c 6d]
+A calls
+B checks
+Flop [As Td 4h], A (2), B (2)
+Redraw reveal for 0: WH0 X3c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5c
+A redraws hole card 1 and checks
+Turn [As Td 4h Jh], A (2), B (2)
+B checks
+A checks
+River [As Td 4h Jh Ts], A (2), B (2)
+B checks
+A checks
+A shows [7d Qc]
+B shows [Qh 6d]
+A awarded 0
+B awarded 0
+
+Round #132, B (-42), A (42)
+B posts blind 1
+A posts blind 2
+B dealt [Kh 9c]
+A dealt [Jc Kd]
+B calls
+A checks
+Flop [Th 4d 2h], B (2), A (2)
+A checks
+B checks
+Turn [Th 4d 2h 6h], B (2), A (2)
+A checks
+B checks
+River [Th 4d 2h 6h 3h], B (2), A (2)
+A checks
+B checks
+B shows [Kh 9c]
+A shows [Jc Kd]
+B awarded 2
+A awarded -2
+
+Round #133, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [6s Kd]
+B dealt [9h 7d]
+A calls
+B checks
+Flop [9s Kc Jd], A (2), B (2)
+Redraw reveal for 0: WH1 X7d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6s
+A redraws hole card 0 and checks
+Turn [9s Kc Jd Ts], A (2), B (2)
+B checks
+A checks
+River [9s Kc Jd Ts Qd], A (2), B (2)
+B checks
+A checks
+A shows [6d Kd]
+B shows [9h Ad]
+A awarded -2
+B awarded 2
+
+Round #134, B (-38), A (38)
+B posts blind 1
+A posts blind 2
+B dealt [5d 8s]
+A dealt [Ac 6s]
+B calls
+A checks
+Flop [Ks Js Qh], B (2), A (2)
+Redraw reveal for 0: WH1 X6s
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5d
+B redraws hole card 0 and checks
+Turn [Ks Js Qh 7d], B (2), A (2)
+A checks
+B checks
+River [Ks Js Qh 7d 3c], B (2), A (2)
+A checks
+B checks
+B shows [2c 8s]
+A shows [Ac Ad]
+B awarded -2
+A awarded 2
+
+Round #135, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [Ks Jh]
+B dealt [9c 6d]
+A calls
+B checks
+Flop [9h Ah Ts], A (2), B (2)
+Redraw reveal for 0: WH1 X6d
+B redraws hole card 1 and checks
+A checks
+Turn [9h Ah Ts Jd], A (2), B (2)
+B checks
+A checks
+River [9h Ah Ts Jd As], A (2), B (2)
+B checks
+A checks
+A shows [Ks Jh]
+B shows [9c 8c]
+A awarded 2
+B awarded -2
+
+Round #136, B (-42), A (42)
+B posts blind 1
+A posts blind 2
+B dealt [Qh 2h]
+A dealt [9s 3h]
+B calls
+A checks
+Flop [7s Qc 5h], B (2), A (2)
+Redraw reveal for 0: WH1 X3h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2h
+B redraws hole card 1 and checks
+Turn [7s Qc 5h Kc], B (2), A (2)
+A checks
+B checks
+River [7s Qc 5h Kc 6h], B (2), A (2)
+A checks
+B checks
+B shows [Qh 3s]
+A shows [9s 4d]
+B awarded 2
+A awarded -2
+
+Round #137, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [Ks Jd]
+B dealt [7d 3d]
+A calls
+B checks
+Flop [4c Tc As], A (2), B (2)
+Redraw reveal for 0: WH1 X3d
+B redraws hole card 1 and checks
+A checks
+Turn [4c Tc As Qc], A (2), B (2)
+B checks
+A checks
+River [4c Tc As Qc Ad], A (2), B (2)
+B checks
+A checks
+A shows [Ks Jd]
+B shows [7d 4h]
+A awarded 2
+B awarded -2
+
+Round #138, B (-42), A (42)
+B posts blind 1
+A posts blind 2
+B dealt [2c 3s]
+A dealt [6s Th]
+B calls
+A checks
+Flop [7h Ts Ad], B (2), A (2)
+Redraw reveal for 0: WH0 X6s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X2c
+B redraws hole card 0 and checks
+Turn [7h Ts Ad 8h], B (2), A (2)
+A checks
+B checks
+River [7h Ts Ad 8h Jh], B (2), A (2)
+A checks
+B checks
+B shows [3c 3s]
+A shows [Ks Th]
+B awarded -2
+A awarded 2
+
+Round #139, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [Ah 4d]
+B dealt [9s 3h]
+A calls
+B checks
+Flop [6s Ks Kh], A (2), B (2)
+Redraw reveal for 0: WH1 X3h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X4d
+A redraws hole card 1 and checks
+Turn [6s Ks Kh 6h], A (2), B (2)
+B checks
+A checks
+River [6s Ks Kh 6h 4h], A (2), B (2)
+B checks
+A checks
+A shows [Ah 3c]
+B shows [9s 8c]
+A awarded 2
+B awarded -2
+
+Round #140, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [Kd 5c]
+A dealt [Th 9s]
+B calls
+A checks
+Flop [4c Kh 2s], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X5c
+B redraws hole card 1 and checks
+Turn [4c Kh 2s 6d], B (2), A (2)
+A checks
+B checks
+River [4c Kh 2s 6d 2h], B (2), A (2)
+A checks
+B checks
+B shows [Kd Ac]
+A shows [Th 9s]
+B awarded 2
+A awarded -2
+
+Round #141, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [3c 5h]
+B dealt [9s 4c]
+A calls
+B checks
+Flop [6d Ks Ad], A (2), B (2)
+Redraw reveal for 0: WH1 X4c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X3c
+A redraws hole card 0 and checks
+Turn [6d Ks Ad 6h], A (2), B (2)
+B checks
+A checks
+River [6d Ks Ad 6h 5d], A (2), B (2)
+B checks
+A checks
+A shows [6s 5h]
+B shows [9s 2h]
+A awarded 2
+B awarded -2
+
+Round #142, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [9c 2s]
+A dealt [Kd Ad]
+B calls
+A checks
+Flop [3s 8s Ts], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X2s
+B redraws hole card 1 and checks
+Turn [3s 8s Ts 9s], B (2), A (2)
+A checks
+B checks
+River [3s 8s Ts 9s 6d], B (2), A (2)
+A checks
+B checks
+B shows [9c 2h]
+A shows [Kd Ad]
+B awarded 2
+A awarded -2
+
+Round #143, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [9h Qd]
+B dealt [5h Qs]
+A calls
+B checks
+Flop [9s 3h 7h], A (2), B (2)
+Redraw reveal for 0: WH0 X5h
+B redraws hole card 0 and checks
+A checks
+Turn [9s 3h 7h As], A (2), B (2)
+B checks
+A checks
+River [9s 3h 7h As Kd], A (2), B (2)
+B checks
+A checks
+A shows [9h Qd]
+B shows [Jd Qs]
+A awarded 2
+B awarded -2
+
+Round #144, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [Kd 2c]
+A dealt [4s Qh]
+B calls
+A checks
+Flop [Qd 8c 2d], B (2), A (2)
+Redraw reveal for 0: WH0 X4s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2c
+B redraws hole card 1 and checks
+Turn [Qd 8c 2d 6c], B (2), A (2)
+A checks
+B checks
+River [Qd 8c 2d 6c 6h], B (2), A (2)
+A checks
+B checks
+B shows [Kd 2h]
+A shows [3h Qh]
+B awarded -2
+A awarded 2
+
+Round #145, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [5d 6c]
+B dealt [9h 7c]
+A calls
+B checks
+Flop [Jh Qs Ad], A (2), B (2)
+Redraw reveal for 0: WH1 X7c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5d
+A redraws hole card 0 and checks
+Turn [Jh Qs Ad 4d], A (2), B (2)
+B checks
+A checks
+River [Jh Qs Ad 4d Ah], A (2), B (2)
+B checks
+A checks
+A shows [Ac 6c]
+B shows [9h 6d]
+A awarded 2
+B awarded -2
+
+Round #146, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [2s 2d]
+A dealt [Td Th]
+B calls
+A checks
+Flop [7c 4d 4c], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X2s
+B redraws hole card 0 and checks
+Turn [7c 4d 4c 7d], B (2), A (2)
+A checks
+B checks
+River [7c 4d 4c 7d 6c], B (2), A (2)
+A checks
+B checks
+B shows [3h 2d]
+A shows [Td Th]
+B awarded -2
+A awarded 2
+
+Round #147, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [2c 9c]
+B dealt [Kc Td]
+A calls
+B checks
+Flop [Qs 4h 8d], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X2c
+A redraws hole card 0 and checks
+Turn [Qs 4h 8d As], A (2), B (2)
+B checks
+A checks
+River [Qs 4h 8d As 3c], A (2), B (2)
+B checks
+A checks
+A shows [Js 9c]
+B shows [Kc Td]
+A awarded -2
+B awarded 2
+
+Round #148, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [4c 5c]
+A dealt [4h 9c]
+B calls
+A checks
+Flop [6s 8s 8d], B (2), A (2)
+Redraw reveal for 0: WH0 X4h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4c
+B redraws hole card 0 and checks
+Turn [6s 8s 8d 9s], B (2), A (2)
+A checks
+B checks
+River [6s 8s 8d 9s Ts], B (2), A (2)
+A checks
+B checks
+B shows [2d 5c]
+A shows [3s 9c]
+B awarded -2
+A awarded 2
+
+Round #149, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [Td As]
+B dealt [Kh 2c]
+A calls
+B checks
+Flop [8c 3c Tc], A (2), B (2)
+Redraw reveal for 0: WH1 X2c
+B redraws hole card 1 and checks
+A checks
+Turn [8c 3c Tc 4s], A (2), B (2)
+B checks
+A checks
+River [8c 3c Tc 4s Ac], A (2), B (2)
+B checks
+A checks
+A shows [Td As]
+B shows [Kh 2h]
+A awarded 2
+B awarded -2
+
+Round #150, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [Td 3h]
+A dealt [3d Jc]
+B calls
+A checks
+Flop [6h 6c 4d], B (2), A (2)
+Redraw reveal for 0: WH0 X3d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X3h
+B redraws hole card 1 and checks
+Turn [6h 6c 4d 5d], B (2), A (2)
+A checks
+B checks
+River [6h 6c 4d 5d 5h], B (2), A (2)
+A checks
+B checks
+B shows [Td Ac]
+A shows [Qs Jc]
+B awarded 2
+A awarded -2
+
+Round #151, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [5c Jc]
+B dealt [2d 5d]
+A calls
+B checks
+Flop [6d Jh 2s], A (2), B (2)
+Redraw reveal for 0: WH0 X2d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X5c
+A redraws hole card 0 and checks
+Turn [6d Jh 2s Kd], A (2), B (2)
+B checks
+A checks
+River [6d Jh 2s Kd Ac], A (2), B (2)
+B checks
+A checks
+A shows [Js Jc]
+B shows [6h 5d]
+A awarded 2
+B awarded -2
+
+Round #152, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [8d Ks]
+A dealt [2d 2h]
+B calls
+A checks
+Flop [4d 3d As], B (2), A (2)
+Redraw reveal for 0: WH0 X2d
+A redraws hole card 0 and checks
+B checks
+Turn [4d 3d As Js], B (2), A (2)
+A checks
+B checks
+River [4d 3d As Js 8c], B (2), A (2)
+A checks
+B checks
+B shows [8d Ks]
+A shows [Tc 2h]
+B awarded 2
+A awarded -2
+
+Round #153, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [9d 2c]
+B dealt [Js 6c]
+A calls
+B checks
+Flop [Qd Ks 3s], A (2), B (2)
+Redraw reveal for 0: WH1 X6c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2c
+A redraws hole card 1 and checks
+Turn [Qd Ks 3s 4h], A (2), B (2)
+B checks
+A checks
+River [Qd Ks 3s 4h Jh], A (2), B (2)
+B checks
+A checks
+A shows [9d 4s]
+B shows [Js Th]
+A awarded -2
+B awarded 2
+
+Round #154, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [9h 2h]
+A dealt [Ts 6h]
+B calls
+A checks
+Flop [4c 8d Ac], B (2), A (2)
+Redraw reveal for 0: WH1 X6h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2h
+B redraws hole card 1 and checks
+Turn [4c 8d Ac 8s], B (2), A (2)
+A checks
+B checks
+River [4c 8d Ac 8s 5c], B (2), A (2)
+A checks
+B checks
+B shows [9h 9s]
+A shows [Ts Th]
+B awarded -2
+A awarded 2
+
+Round #155, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [8d 4s]
+B dealt [9h Jd]
+A calls
+B checks
+Flop [8c Qh 8h], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X4s
+A redraws hole card 1 and checks
+Turn [8c Qh 8h Tc], A (2), B (2)
+B checks
+A checks
+River [8c Qh 8h Tc As], A (2), B (2)
+B checks
+A checks
+A shows [8d 6c]
+B shows [9h Jd]
+A awarded -2
+B awarded 2
+
+Round #156, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [8s 6d]
+A dealt [7h 2c]
+B calls
+A checks
+Flop [9d Jc 5s], B (2), A (2)
+Redraw reveal for 0: WH1 X2c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X6d
+B redraws hole card 1 and checks
+Turn [9d Jc 5s Ks], B (2), A (2)
+A checks
+B checks
+River [9d Jc 5s Ks 9h], B (2), A (2)
+A checks
+B checks
+B shows [8s Jh]
+A shows [7h Qh]
+B awarded 2
+A awarded -2
+
+Round #157, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [9s 7s]
+B dealt [2c 5s]
+A calls
+B checks
+Flop [8s 8c 2d], A (2), B (2)
+Redraw reveal for 0: WH0 X2c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7s
+A redraws hole card 1 and checks
+Turn [8s 8c 2d 2s], A (2), B (2)
+B checks
+A checks
+River [8s 8c 2d 2s Tc], A (2), B (2)
+B checks
+A checks
+A shows [9s 2h]
+B shows [Th 5s]
+A awarded 2
+B awarded -2
+
+Round #158, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [4d Ad]
+A dealt [4s Td]
+B calls
+A checks
+Flop [7c 3d 3c], B (2), A (2)
+Redraw reveal for 0: WH0 X4s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4d
+B redraws hole card 0 and checks
+Turn [7c 3d 3c Ah], B (2), A (2)
+A checks
+B checks
+River [7c 3d 3c Ah 4h], B (2), A (2)
+A checks
+B checks
+B shows [6h Ad]
+A shows [4c Td]
+B awarded 2
+A awarded -2
+
+Round #159, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [8h 7c]
+B dealt [4s 3c]
+A calls
+B checks
+Flop [5h 4c 4h], A (2), B (2)
+Redraw reveal for 0: WH1 X3c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X7c
+A redraws hole card 1 and checks
+Turn [5h 4c 4h Ks], A (2), B (2)
+B checks
+A checks
+River [5h 4c 4h Ks 9s], A (2), B (2)
+B checks
+A checks
+A shows [8h 5s]
+B shows [4s 2h]
+A awarded -2
+B awarded 2
+
+Round #160, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [Jc 2d]
+A dealt [4c 5c]
+B calls
+A checks
+Flop [7h 2c 3h], B (2), A (2)
+Redraw reveal for 0: WH0 X4c
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2d
+B redraws hole card 1 and checks
+Turn [7h 2c 3h Qc], B (2), A (2)
+A checks
+B checks
+River [7h 2c 3h Qc Ac], B (2), A (2)
+A checks
+B checks
+B shows [Jc 9d]
+A shows [Qh 5c]
+B awarded -2
+A awarded 2
+
+Round #161, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [6h 9h]
+B dealt [5c 7c]
+A calls
+B checks
+Flop [9c 7h 4h], A (2), B (2)
+Redraw reveal for 0: WH0 X5c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6h
+A redraws hole card 0 and checks
+Turn [9c 7h 4h Ac], A (2), B (2)
+B checks
+A checks
+River [9c 7h 4h Ac 8h], A (2), B (2)
+B checks
+A checks
+A shows [Ah 9h]
+B shows [5d 7c]
+A awarded 2
+B awarded -2
+
+Round #162, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [Td 9s]
+A dealt [9c Tc]
+B calls
+A checks
+Flop [3d 3h 3s], B (2), A (2)
+A checks
+B checks
+Turn [3d 3h 3s 6c], B (2), A (2)
+A checks
+B checks
+River [3d 3h 3s 6c 4c], B (2), A (2)
+A checks
+B checks
+B shows [Td 9s]
+A shows [9c Tc]
+B awarded 0
+A awarded 0
+
+Round #163, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [Kd 7s]
+B dealt [5c 3h]
+A calls
+B checks
+Flop [Ts 3d 9s], A (2), B (2)
+Redraw reveal for 0: WH1 X3h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X7s
+A redraws hole card 1 and checks
+Turn [Ts 3d 9s Ad], A (2), B (2)
+B checks
+A checks
+River [Ts 3d 9s Ad 5s], A (2), B (2)
+B checks
+A checks
+A shows [Kd 7h]
+B shows [5c 4c]
+A awarded -2
+B awarded 2
+
+Round #164, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [9c Td]
+A dealt [4c Th]
+B calls
+A checks
+Flop [Ah 6d Js], B (2), A (2)
+Redraw reveal for 0: WH0 X4c
+A redraws hole card 0 and checks
+B checks
+Turn [Ah 6d Js Ts], B (2), A (2)
+A checks
+B checks
+River [Ah 6d Js Ts Qc], B (2), A (2)
+A checks
+B checks
+B shows [9c Td]
+A shows [2h Th]
+B awarded 0
+A awarded 0
+
+Round #165, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [9d 2s]
+B dealt [4d Qd]
+A calls
+B checks
+Flop [2c 5d 8s], A (2), B (2)
+Redraw reveal for 0: WH0 X4d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2s
+A redraws hole card 1 and checks
+Turn [2c 5d 8s 3s], A (2), B (2)
+B checks
+A checks
+River [2c 5d 8s 3s 8h], A (2), B (2)
+B checks
+A checks
+A shows [9d Tc]
+B shows [9h Qd]
+A awarded -2
+B awarded 2
+
+Round #166, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [3h 8s]
+A dealt [9c Tc]
+B calls
+A checks
+Flop [Kh Qh 7c], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X3h
+B redraws hole card 0 and checks
+Turn [Kh Qh 7c 9h], B (2), A (2)
+A checks
+B checks
+River [Kh Qh 7c 9h 2d], B (2), A (2)
+A checks
+B checks
+B shows [7h 8s]
+A shows [9c Tc]
+B awarded -2
+A awarded 2
+
+Round #167, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [6d 3d]
+B dealt [Qh 2s]
+A calls
+B checks
+Flop [6s Ac 7c], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3d
+A redraws hole card 1 and checks
+Turn [6s Ac 7c Jd], A (2), B (2)
+B checks
+A checks
+River [6s Ac 7c Jd 4h], A (2), B (2)
+B checks
+A checks
+A shows [6d 8c]
+B shows [Qh Jh]
+A awarded -2
+B awarded 2
+
+Round #168, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [9s 3c]
+A dealt [As Td]
+B calls
+A checks
+Flop [3d 8c Qc], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X3c
+B redraws hole card 1 and checks
+Turn [3d 8c Qc 3h], B (2), A (2)
+A checks
+B checks
+River [3d 8c Qc 3h Ts], B (2), A (2)
+A checks
+B checks
+B shows [9s 2h]
+A shows [As Td]
+B awarded -2
+A awarded 2
+
+Round #169, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [8s Jh]
+B dealt [3h 7s]
+A calls
+B checks
+Flop [3d 2h Qh], A (2), B (2)
+Redraw reveal for 0: WH0 X3h
+B redraws hole card 0 and checks
+A checks
+Turn [3d 2h Qh 5h], A (2), B (2)
+B checks
+A checks
+River [3d 2h Qh 5h As], A (2), B (2)
+B checks
+A checks
+A shows [8s Jh]
+B shows [Qs 7s]
+A awarded -2
+B awarded 2
+
+Round #170, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [2c 3c]
+A dealt [Ks 2h]
+B calls
+A checks
+Flop [9s 3d 6c], B (2), A (2)
+Redraw reveal for 0: WH1 X2h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2c
+B redraws hole card 0 and checks
+Turn [9s 3d 6c 9c], B (2), A (2)
+A checks
+B checks
+River [9s 3d 6c 9c Td], B (2), A (2)
+A checks
+B checks
+B shows [Qc 3c]
+A shows [Ks Kc]
+B awarded -2
+A awarded 2
+
+Round #171, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [5d 7s]
+B dealt [Qd Ac]
+A calls
+B checks
+Flop [2h Tc Jc], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X5d
+A redraws hole card 0 and checks
+Turn [2h Tc Jc Ad], A (2), B (2)
+B checks
+A checks
+River [2h Tc Jc Ad 4c], A (2), B (2)
+B checks
+A checks
+A shows [8h 7s]
+B shows [Qd Ac]
+A awarded -2
+B awarded 2
+
+Round #172, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [5d 6d]
+A dealt [Th Qs]
+B calls
+A checks
+Flop [Ks 6c Jh], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X5d
+B redraws hole card 0 and checks
+Turn [Ks 6c Jh 2s], B (2), A (2)
+A checks
+B checks
+River [Ks 6c Jh 2s Qd], B (2), A (2)
+A checks
+B checks
+B shows [9d 6d]
+A shows [Th Qs]
+B awarded -2
+A awarded 2
+
+Round #173, A (48), B (-48)
+A posts blind 1
+B posts blind 2
+A dealt [Kc 8d]
+B dealt [Js As]
+A calls
+B checks
+Flop [Qd 7c Ks], A (2), B (2)
+B checks
+A checks
+Turn [Qd 7c Ks Tc], A (2), B (2)
+B checks
+A checks
+River [Qd 7c Ks Tc 5s], A (2), B (2)
+B checks
+A checks
+A shows [Kc 8d]
+B shows [Js As]
+A awarded -2
+B awarded 2
+
+Round #174, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [9h 6h]
+A dealt [Qd 5h]
+B calls
+A checks
+Flop [7s 4s Kd], B (2), A (2)
+Redraw reveal for 0: WH1 X5h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X6h
+B redraws hole card 1 and checks
+Turn [7s 4s Kd 4h], B (2), A (2)
+A checks
+B checks
+River [7s 4s Kd 4h Tc], B (2), A (2)
+A checks
+B checks
+B shows [9h Kh]
+A shows [Qd Td]
+B awarded 2
+A awarded -2
+
+Round #175, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [6h Qd]
+B dealt [3s 6c]
+A calls
+B checks
+Flop [8c 9h 4d], A (2), B (2)
+Redraw reveal for 0: WH0 X3s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6h
+A redraws hole card 0 and checks
+Turn [8c 9h 4d 4c], A (2), B (2)
+B checks
+A checks
+River [8c 9h 4d 4c 4s], A (2), B (2)
+B checks
+A checks
+A shows [7d Qd]
+B shows [2h 6c]
+A awarded 2
+B awarded -2
+
+Round #176, B (-46), A (46)
+B posts blind 1
+A posts blind 2
+B dealt [6d Kc]
+A dealt [8s 5s]
+B calls
+A checks
+Flop [Ad 5h 6c], B (2), A (2)
+Redraw reveal for 0: WH1 X5s
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6d
+B redraws hole card 0 and checks
+Turn [Ad 5h 6c As], B (2), A (2)
+A checks
+B checks
+River [Ad 5h 6c As Tc], B (2), A (2)
+A checks
+B checks
+B shows [Js Kc]
+A shows [8s 7d]
+B awarded 2
+A awarded -2
+
+Round #177, A (44), B (-44)
+A posts blind 1
+B posts blind 2
+A dealt [3c Qd]
+B dealt [2c Tc]
+A calls
+B checks
+Flop [As Ad Kh], A (2), B (2)
+Redraw reveal for 0: WH0 X2c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3c
+A redraws hole card 0 and checks
+Turn [As Ad Kh Qh], A (2), B (2)
+B checks
+A checks
+River [As Ad Kh Qh 3s], A (2), B (2)
+B checks
+A checks
+A shows [Kd Qd]
+B shows [Kc Tc]
+A awarded 0
+B awarded 0
+
+Round #178, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [Jc 3s]
+A dealt [Td 9d]
+B calls
+A checks
+Flop [3h 6c 6d], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X3s
+B redraws hole card 1 and checks
+Turn [3h 6c 6d 6h], B (2), A (2)
+A checks
+B checks
+River [3h 6c 6d 6h Kc], B (2), A (2)
+A checks
+B checks
+B shows [Jc 4s]
+A shows [Td 9d]
+B awarded 2
+A awarded -2
+
+Round #179, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [7c Qd]
+B dealt [5d 8h]
+A calls
+B checks
+Flop [9h 9c Qh], A (2), B (2)
+Redraw reveal for 0: WH0 X5d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X7c
+A redraws hole card 0 and checks
+Turn [9h 9c Qh Ts], A (2), B (2)
+B checks
+A checks
+River [9h 9c Qh Ts Kc], A (2), B (2)
+B checks
+A checks
+A shows [Th Qd]
+B shows [8d 8h]
+A awarded 2
+B awarded -2
+
+Round #180, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [8d 8c]
+A dealt [Jc As]
+B calls
+A checks
+Flop [9d Ad 2c], B (2), A (2)
+A checks
+B checks
+Turn [9d Ad 2c 6s], B (2), A (2)
+A checks
+B checks
+River [9d Ad 2c 6s 3c], B (2), A (2)
+A checks
+B checks
+B shows [8d 8c]
+A shows [Jc As]
+B awarded -2
+A awarded 2
+
+Round #181, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [3s 8s]
+B dealt [5d 3c]
+A calls
+B checks
+Flop [Td 2d 7s], A (2), B (2)
+Redraw reveal for 0: WH1 X3c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X3s
+A redraws hole card 0 and checks
+Turn [Td 2d 7s 5h], A (2), B (2)
+B checks
+A checks
+River [Td 2d 7s 5h 3d], A (2), B (2)
+B checks
+A checks
+A shows [Qh 8s]
+B shows [5d Jc]
+A awarded -2
+B awarded 2
+
+Round #182, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [Ks 2d]
+A dealt [Jh Ac]
+B calls
+A checks
+Flop [4c Qh Js], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X2d
+B redraws hole card 1 and checks
+Turn [4c Qh Js 7s], B (2), A (2)
+A checks
+B checks
+River [4c Qh Js 7s Ad], B (2), A (2)
+A checks
+B checks
+B shows [Ks 5s]
+A shows [Jh Ac]
+B awarded -2
+A awarded 2
+
+Round #183, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [Qh 3h]
+B dealt [Kh 5h]
+A calls
+B checks
+Flop [Jh 9s 3d], A (2), B (2)
+Redraw reveal for 0: WH1 X5h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3h
+A redraws hole card 1 and checks
+Turn [Jh 9s 3d Ac], A (2), B (2)
+B checks
+A checks
+River [Jh 9s 3d Ac Jd], A (2), B (2)
+B checks
+A checks
+A shows [Qh 6d]
+B shows [Kh 4d]
+A awarded -2
+B awarded 2
+
+Round #184, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [Th 6h]
+A dealt [4d Kc]
+B calls
+A checks
+Flop [4s 3s Ad], B (2), A (2)
+Redraw reveal for 0: WH0 X4d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X6h
+B redraws hole card 1 and checks
+Turn [4s 3s Ad 3c], B (2), A (2)
+A checks
+B checks
+River [4s 3s Ad 3c Ac], B (2), A (2)
+A checks
+B checks
+B shows [Th Ts]
+A shows [4c Kc]
+B awarded 2
+A awarded -2
+
+Round #185, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [3s 5s]
+B dealt [Js 2h]
+A calls
+B checks
+Flop [4h 4s As], A (2), B (2)
+Redraw reveal for 0: WH1 X2h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X3s
+A redraws hole card 0 and checks
+Turn [4h 4s As 4c], A (2), B (2)
+B checks
+A checks
+River [4h 4s As 4c 7d], A (2), B (2)
+B checks
+A checks
+A shows [9c 5s]
+B shows [Js 8d]
+A awarded -2
+B awarded 2
+
+Round #186, B (-40), A (40)
+B posts blind 1
+A posts blind 2
+B dealt [9d Qc]
+A dealt [Qh Jc]
+B calls
+A checks
+Flop [4s Ah 9h], B (2), A (2)
+A checks
+B checks
+Turn [4s Ah 9h 3h], B (2), A (2)
+A checks
+B checks
+River [4s Ah 9h 3h 3s], B (2), A (2)
+A checks
+B checks
+B shows [9d Qc]
+A shows [Qh Jc]
+B awarded 2
+A awarded -2
+
+Round #187, A (38), B (-38)
+A posts blind 1
+B posts blind 2
+A dealt [4h 7s]
+B dealt [9d 7h]
+A calls
+B checks
+Flop [Th 2d 5c], A (2), B (2)
+Redraw reveal for 0: WH1 X7h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X4h
+A redraws hole card 0 and checks
+Turn [Th 2d 5c 2s], A (2), B (2)
+B checks
+A checks
+River [Th 2d 5c 2s 8h], A (2), B (2)
+B checks
+A checks
+A shows [3c 7s]
+B shows [9d 4s]
+A awarded -2
+B awarded 2
+
+Round #188, B (-36), A (36)
+B posts blind 1
+A posts blind 2
+B dealt [4s As]
+A dealt [7d Js]
+B calls
+A checks
+Flop [Jh Th Ks], B (2), A (2)
+Redraw reveal for 0: WH0 X7d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4s
+B redraws hole card 0 and checks
+Turn [Jh Th Ks Qc], B (2), A (2)
+A checks
+B checks
+River [Jh Th Ks Qc 4d], B (2), A (2)
+A checks
+B checks
+B shows [3d As]
+A shows [2d Js]
+B awarded 2
+A awarded -2
+
+Round #189, A (34), B (-34)
+A posts blind 1
+B posts blind 2
+A dealt [2d 2h]
+B dealt [Qs 5d]
+A calls
+B checks
+Flop [Ks 3h 9c], A (2), B (2)
+Redraw reveal for 0: WH1 X5d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2d
+A redraws hole card 0 and checks
+Turn [Ks 3h 9c 9h], A (2), B (2)
+B checks
+A checks
+River [Ks 3h 9c 9h Jd], A (2), B (2)
+B checks
+A checks
+A shows [8d 2h]
+B shows [Qs Ac]
+A awarded -2
+B awarded 2
+
+Round #190, B (-32), A (32)
+B posts blind 1
+A posts blind 2
+B dealt [Qd 8d]
+A dealt [Ad 9h]
+B calls
+A checks
+Flop [Jc 6d 4d], B (2), A (2)
+A checks
+B checks
+Turn [Jc 6d 4d Kd], B (2), A (2)
+A checks
+B checks
+River [Jc 6d 4d Kd 7d], B (2), A (2)
+A checks
+B checks
+B shows [Qd 8d]
+A shows [Ad 9h]
+B awarded -2
+A awarded 2
+
+Round #191, A (34), B (-34)
+A posts blind 1
+B posts blind 2
+A dealt [5s 8c]
+B dealt [4s 8d]
+A calls
+B checks
+Flop [2c Th 2s], A (2), B (2)
+Redraw reveal for 0: WH0 X4s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X5s
+A redraws hole card 0 and checks
+Turn [2c Th 2s 8h], A (2), B (2)
+B checks
+A checks
+River [2c Th 2s 8h 5h], A (2), B (2)
+B checks
+A checks
+A shows [9c 8c]
+B shows [9s 8d]
+A awarded 0
+B awarded 0
+
+Round #192, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [Kd 4h]
+A dealt [Ts 7h]
+B calls
+A checks
+Flop [Kc 2c Qs], B (2), A (2)
+Redraw reveal for 0: WH1 X7h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X4h
+B redraws hole card 1 and checks
+Turn [Kc 2c Qs 8h], B (2), A (2)
+A checks
+B checks
+River [Kc 2c Qs 8h 5c], B (2), A (2)
+A checks
+B checks
+B shows [Kd 8d]
+A shows [Ts 5d]
+B awarded 2
+A awarded -2
+
+Round #193, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [Jh Ad]
+B dealt [4c 6d]
+A calls
+B checks
+Flop [7s As 5s], A (2), B (2)
+Redraw reveal for 0: WH0 X4c
+B redraws hole card 0 and checks
+A checks
+Turn [7s As 5s 3h], A (2), B (2)
+B checks
+A checks
+River [7s As 5s 3h Ac], A (2), B (2)
+B checks
+A checks
+A shows [Jh Ad]
+B shows [6h 6d]
+A awarded 2
+B awarded -2
+
+Round #194, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [Qs Jd]
+A dealt [Ac Jh]
+B calls
+A checks
+Flop [3d 8d Qc], B (2), A (2)
+A checks
+B checks
+Turn [3d 8d Qc Qh], B (2), A (2)
+A checks
+B checks
+River [3d 8d Qc Qh 8c], B (2), A (2)
+A checks
+B checks
+B shows [Qs Jd]
+A shows [Ac Jh]
+B awarded 2
+A awarded -2
+
+Round #195, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [Jh 5s]
+B dealt [3c 7h]
+A calls
+B checks
+Flop [Jd 2c 4d], A (2), B (2)
+Redraw reveal for 0: WH0 X3c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5s
+A redraws hole card 1 and checks
+Turn [Jd 2c 4d 6c], A (2), B (2)
+B checks
+A checks
+River [Jd 2c 4d 6c Js], A (2), B (2)
+B checks
+A checks
+A shows [Jh 5c]
+B shows [Tc 7h]
+A awarded 2
+B awarded -2
+
+Round #196, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [2h Jd]
+A dealt [Qc 6c]
+B calls
+A checks
+Flop [4h Jc Qs], B (2), A (2)
+Redraw reveal for 0: WH1 X6c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2h
+B redraws hole card 0 and checks
+Turn [4h Jc Qs Ad], B (2), A (2)
+A checks
+B checks
+River [4h Jc Qs Ad 8h], B (2), A (2)
+A checks
+B checks
+B shows [2c Jd]
+A shows [Qc 5c]
+B awarded -2
+A awarded 2
+
+Round #197, A (36), B (-36)
+A posts blind 1
+B posts blind 2
+A dealt [Jh 4c]
+B dealt [Ks Kc]
+A calls
+B checks
+Flop [Ac 9d 3h], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X4c
+A redraws hole card 1 and checks
+Turn [Ac 9d 3h As], A (2), B (2)
+B checks
+A checks
+River [Ac 9d 3h As 2h], A (2), B (2)
+B checks
+A checks
+A shows [Jh Qd]
+B shows [Ks Kc]
+A awarded -2
+B awarded 2
+
+Round #198, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [Jd 7h]
+A dealt [2d Th]
+B calls
+A checks
+Flop [5c 4h 8d], B (2), A (2)
+Redraw reveal for 0: WH0 X2d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7h
+B redraws hole card 1 and checks
+Turn [5c 4h 8d 6d], B (2), A (2)
+A checks
+B checks
+River [5c 4h 8d 6d 8c], B (2), A (2)
+A checks
+B checks
+B shows [Jd Js]
+A shows [5d Th]
+B awarded 2
+A awarded -2
+
+Round #199, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [Ah 7d]
+B dealt [4c Qs]
+A calls
+B checks
+Flop [6s 8d 5c], A (2), B (2)
+Redraw reveal for 0: WH0 X4c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7d
+A redraws hole card 1 and checks
+Turn [6s 8d 5c Jd], A (2), B (2)
+B checks
+A checks
+River [6s 8d 5c Jd Kc], A (2), B (2)
+B checks
+A checks
+A shows [Ah 6c]
+B shows [7c Qs]
+A awarded 2
+B awarded -2
+
+Round #200, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [Qc 2h]
+A dealt [7c Kc]
+B calls
+A checks
+Flop [Tc 3c Jh], B (2), A (2)
+Redraw reveal for 0: WH0 X7c
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2h
+B redraws hole card 1 and checks
+Turn [Tc 3c Jh Ah], B (2), A (2)
+A checks
+B checks
+River [Tc 3c Jh Ah Ac], B (2), A (2)
+A checks
+B checks
+B shows [Qc 9c]
+A shows [Js Kc]
+B awarded 2
+A awarded -2
+
+Round #201, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [Jc Ac]
+B dealt [6c 4d]
+A calls
+B checks
+Flop [2h 4h 5s], A (2), B (2)
+Redraw reveal for 0: WH1 X4d
+B redraws hole card 1 and checks
+A checks
+Turn [2h 4h 5s Ah], A (2), B (2)
+B checks
+A checks
+River [2h 4h 5s Ah 2d], A (2), B (2)
+B checks
+A checks
+A shows [Jc Ac]
+B shows [6c Jh]
+A awarded 2
+B awarded -2
+
+Round #202, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [4c Td]
+A dealt [5h Ts]
+B calls
+A checks
+Flop [6d 2d Ad], B (2), A (2)
+Redraw reveal for 0: WH0 X5h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4c
+B redraws hole card 0 and checks
+Turn [6d 2d Ad 3s], B (2), A (2)
+A checks
+B checks
+River [6d 2d Ad 3s 8h], B (2), A (2)
+A checks
+B checks
+B shows [8s Td]
+A shows [Kd Ts]
+B awarded 2
+A awarded -2
+
+Round #203, A (32), B (-32)
+A posts blind 1
+B posts blind 2
+A dealt [Ad 9d]
+B dealt [7c Ks]
+A calls
+B checks
+Flop [5h Jc 6s], A (2), B (2)
+Redraw reveal for 0: WH0 X7c
+B redraws hole card 0 and checks
+A checks
+Turn [5h Jc 6s 8c], A (2), B (2)
+B checks
+A checks
+River [5h Jc 6s 8c 5c], A (2), B (2)
+B checks
+A checks
+A shows [Ad 9d]
+B shows [Qs Ks]
+A awarded 2
+B awarded -2
+
+Round #204, B (-34), A (34)
+B posts blind 1
+A posts blind 2
+B dealt [4c 8s]
+A dealt [3h 2h]
+B calls
+A checks
+Flop [Jh Jc 6h], B (2), A (2)
+Redraw reveal for 0: WH1 X2h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X4c
+B redraws hole card 0 and checks
+Turn [Jh Jc 6h Ah], B (2), A (2)
+A checks
+B checks
+River [Jh Jc 6h Ah 8h], B (2), A (2)
+A checks
+B checks
+B shows [2c 8s]
+A shows [3h 8d]
+B awarded -2
+A awarded 2
+
+Round #205, A (36), B (-36)
+A posts blind 1
+B posts blind 2
+A dealt [Ks 7h]
+B dealt [6h Qs]
+A calls
+B checks
+Flop [5h Ad 9c], A (2), B (2)
+Redraw reveal for 0: WH0 X6h
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7h
+A redraws hole card 1 and checks
+Turn [5h Ad 9c 8h], A (2), B (2)
+B checks
+A checks
+River [5h Ad 9c 8h 9h], A (2), B (2)
+B checks
+A checks
+A shows [Ks Ac]
+B shows [Kh Qs]
+A awarded 2
+B awarded -2
+
+Round #206, B (-38), A (38)
+B posts blind 1
+A posts blind 2
+B dealt [7d Qc]
+A dealt [Th 2s]
+B calls
+A checks
+Flop [Td 9c Qs], B (2), A (2)
+Redraw reveal for 0: WH1 X2s
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X7d
+B redraws hole card 0 and checks
+Turn [Td 9c Qs 2h], B (2), A (2)
+A checks
+B checks
+River [Td 9c Qs 2h Js], B (2), A (2)
+A checks
+B checks
+B shows [Ah Qc]
+A shows [Th Kc]
+B awarded -2
+A awarded 2
+
+Round #207, A (40), B (-40)
+A posts blind 1
+B posts blind 2
+A dealt [Jh Qh]
+B dealt [7h 4s]
+A calls
+B checks
+Flop [3c 3d Js], A (2), B (2)
+Redraw reveal for 0: WH1 X4s
+B redraws hole card 1 and checks
+A checks
+Turn [3c 3d Js Kc], A (2), B (2)
+B checks
+A checks
+River [3c 3d Js Kc 9c], A (2), B (2)
+B checks
+A checks
+A shows [Jh Qh]
+B shows [7h Jc]
+A awarded 0
+B awarded 0
+
+Round #208, B (-40), A (40)
+B posts blind 1
+A posts blind 2
+B dealt [6d 8s]
+A dealt [5h Js]
+B calls
+A checks
+Flop [8h 9d 7c], B (2), A (2)
+Redraw reveal for 0: WH0 X5h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6d
+B redraws hole card 0 and checks
+Turn [8h 9d 7c 8d], B (2), A (2)
+A checks
+B checks
+River [8h 9d 7c 8d Ac], B (2), A (2)
+A checks
+B checks
+B shows [Kh 8s]
+A shows [Ts Js]
+B awarded -2
+A awarded 2
+
+Round #209, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [3s 8s]
+B dealt [6s 9h]
+A calls
+B checks
+Flop [4d 7s Js], A (2), B (2)
+Redraw reveal for 0: WH0 X6s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3s
+A redraws hole card 0 and checks
+Turn [4d 7s Js 2d], A (2), B (2)
+B checks
+A checks
+River [4d 7s Js 2d 6c], A (2), B (2)
+B checks
+A checks
+A shows [Kc 8s]
+B shows [Ah 9h]
+A awarded -2
+B awarded 2
+
+Round #210, B (-40), A (40)
+B posts blind 1
+A posts blind 2
+B dealt [5d 2h]
+A dealt [6s 7h]
+B calls
+A checks
+Flop [3h 5h Ad], B (2), A (2)
+Redraw reveal for 0: WH0 X6s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2h
+B redraws hole card 1 and checks
+Turn [3h 5h Ad 6c], B (2), A (2)
+A checks
+B checks
+River [3h 5h Ad 6c 4d], B (2), A (2)
+A checks
+B checks
+B shows [5d 2c]
+A shows [Qh 7h]
+B awarded -2
+A awarded 2
+
+Round #211, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [Ah 3s]
+B dealt [9c Th]
+A calls
+B checks
+Flop [6s 3c Qh], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X3s
+A redraws hole card 1 and checks
+Turn [6s 3c Qh 2d], A (2), B (2)
+B checks
+A checks
+River [6s 3c Qh 2d 4s], A (2), B (2)
+B checks
+A checks
+A shows [Ah Jh]
+B shows [9c Th]
+A awarded 2
+B awarded -2
+
+Round #212, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [Ts 3h]
+A dealt [8h 7h]
+B calls
+A checks
+Flop [6d 5c 6s], B (2), A (2)
+Redraw reveal for 0: WH1 X7h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3h
+B redraws hole card 1 and checks
+Turn [6d 5c 6s 3s], B (2), A (2)
+A checks
+B checks
+River [6d 5c 6s 3s Kd], B (2), A (2)
+A checks
+B checks
+B shows [Ts 8d]
+A shows [8h 6c]
+B awarded -2
+A awarded 2
+
+Round #213, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [3d 2d]
+B dealt [6d 2s]
+A calls
+B checks
+Flop [Ts 7d Ad], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2d
+A redraws hole card 1 and checks
+Turn [Ts 7d Ad Qs], A (2), B (2)
+B checks
+A checks
+River [Ts 7d Ad Qs 7s], A (2), B (2)
+B checks
+A checks
+A shows [3d 9d]
+B shows [6d Ks]
+A awarded -2
+B awarded 2
+
+Round #214, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [9d 7c]
+A dealt [Ah Kd]
+B calls
+A checks
+Flop [3c 4h Ac], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X7c
+B redraws hole card 1 and checks
+Turn [3c 4h Ac Tc], B (2), A (2)
+A checks
+B checks
+River [3c 4h Ac Tc Qc], B (2), A (2)
+A checks
+B checks
+B shows [9d Jd]
+A shows [Ah Kd]
+B awarded -2
+A awarded 2
+
+Round #215, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [Qh 4s]
+B dealt [6d Ac]
+A calls
+B checks
+Flop [2s Qs Jc], A (2), B (2)
+Redraw reveal for 0: WH0 X6d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X4s
+A redraws hole card 1 and checks
+Turn [2s Qs Jc 3h], A (2), B (2)
+B checks
+A checks
+River [2s Qs Jc 3h Ah], A (2), B (2)
+B checks
+A checks
+A shows [Qh 4d]
+B shows [8d Ac]
+A awarded -2
+B awarded 2
+
+Round #216, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [3s Ac]
+A dealt [Ks Ah]
+B calls
+A checks
+Flop [8d Ad 3c], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X3s
+B redraws hole card 0 and checks
+Turn [8d Ad 3c 4h], B (2), A (2)
+A checks
+B checks
+River [8d Ad 3c 4h 8s], B (2), A (2)
+A checks
+B checks
+B shows [Qd Ac]
+A shows [Ks Ah]
+B awarded -2
+A awarded 2
+
+Round #217, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [8c 2s]
+B dealt [8d 9c]
+A calls
+B checks
+Flop [9s 3s Kc], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X2s
+A redraws hole card 1 and checks
+Turn [9s 3s Kc Ad], A (2), B (2)
+B checks
+A checks
+River [9s 3s Kc Ad 5c], A (2), B (2)
+B checks
+A checks
+A shows [8c Ac]
+B shows [8d 9c]
+A awarded 2
+B awarded -2
+
+Round #218, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [4s 2s]
+A dealt [6h 5d]
+B calls
+A checks
+Flop [7h Js 8h], B (2), A (2)
+Redraw reveal for 0: WH1 X5d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2s
+B redraws hole card 1 and checks
+Turn [7h Js 8h 9h], B (2), A (2)
+A checks
+B checks
+River [7h Js 8h 9h 3d], B (2), A (2)
+A checks
+B checks
+B shows [4s 9c]
+A shows [6h 4h]
+B awarded -2
+A awarded 2
+
+Round #219, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [9h 5d]
+B dealt [8d 3c]
+A calls
+B checks
+Flop [Ks 4c 2h], A (2), B (2)
+Redraw reveal for 0: WH1 X3c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X5d
+A redraws hole card 1 and checks
+Turn [Ks 4c 2h As], A (2), B (2)
+B checks
+A checks
+River [Ks 4c 2h As 9d], A (2), B (2)
+B checks
+A checks
+A shows [9h Ad]
+B shows [8d 4d]
+A awarded 2
+B awarded -2
+
+Round #220, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [9h As]
+A dealt [7s 2c]
+B calls
+A checks
+Flop [Jc 8h 3d], B (2), A (2)
+Redraw reveal for 0: WH1 X2c
+A redraws hole card 1 and checks
+B checks
+Turn [Jc 8h 3d 3c], B (2), A (2)
+A checks
+B checks
+River [Jc 8h 3d 3c Kh], B (2), A (2)
+A checks
+B checks
+B shows [9h As]
+A shows [7s 9d]
+B awarded 2
+A awarded -2
+
+Round #221, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [9h 8d]
+B dealt [6h 4s]
+A calls
+B checks
+Flop [Ah 9s 5h], A (2), B (2)
+Redraw reveal for 0: WH1 X4s
+B redraws hole card 1 and checks
+A checks
+Turn [Ah 9s 5h Kc], A (2), B (2)
+B checks
+A checks
+River [Ah 9s 5h Kc 6d], A (2), B (2)
+B checks
+A checks
+A shows [9h 8d]
+B shows [6h 4c]
+A awarded 2
+B awarded -2
+
+Round #222, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [8c 3d]
+A dealt [9s 5d]
+B calls
+A checks
+Flop [Td 5s 5c], B (2), A (2)
+Redraw reveal for 0: WH1 X5d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3d
+B redraws hole card 1 and checks
+Turn [Td 5s 5c 7h], B (2), A (2)
+A checks
+B checks
+River [Td 5s 5c 7h Qd], B (2), A (2)
+A checks
+B checks
+B shows [8c 9c]
+A shows [9s 8d]
+B awarded 0
+A awarded 0
+
+Round #223, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [Ad Qd]
+B dealt [3d 7d]
+A calls
+B checks
+Flop [4c 2c Td], A (2), B (2)
+Redraw reveal for 0: WH0 X3d
+B redraws hole card 0 and checks
+A checks
+Turn [4c 2c Td 6c], A (2), B (2)
+B checks
+A checks
+River [4c 2c Td 6c Kd], A (2), B (2)
+B checks
+A checks
+A shows [Ad Qd]
+B shows [8s 7d]
+A awarded 2
+B awarded -2
+
+Round #224, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [Th Jc]
+A dealt [Ts 2d]
+B calls
+A checks
+Flop [3c 6c Ah], B (2), A (2)
+Redraw reveal for 0: WH1 X2d
+A redraws hole card 1 and checks
+B checks
+Turn [3c 6c Ah 7s], B (2), A (2)
+A checks
+B checks
+River [3c 6c Ah 7s 4s], B (2), A (2)
+A checks
+B checks
+B shows [Th Jc]
+A shows [Ts Kh]
+B awarded -2
+A awarded 2
+
+Round #225, A (56), B (-56)
+A posts blind 1
+B posts blind 2
+A dealt [Qd 8s]
+B dealt [As Jh]
+A calls
+B checks
+Flop [2c Kh 6s], A (2), B (2)
+B checks
+A checks
+Turn [2c Kh 6s 5d], A (2), B (2)
+B checks
+A checks
+River [2c Kh 6s 5d Js], A (2), B (2)
+B checks
+A checks
+A shows [Qd 8s]
+B shows [As Jh]
+A awarded -2
+B awarded 2
+
+Round #226, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [Jd Qh]
+A dealt [3c Js]
+B calls
+A checks
+Flop [8c 5s Ks], B (2), A (2)
+Redraw reveal for 0: WH0 X3c
+A redraws hole card 0 and checks
+B checks
+Turn [8c 5s Ks 5c], B (2), A (2)
+A checks
+B checks
+River [8c 5s Ks 5c 5d], B (2), A (2)
+A checks
+B checks
+B shows [Jd Qh]
+A shows [Qd Js]
+B awarded 0
+A awarded 0
+
+Round #227, A (54), B (-54)
+A posts blind 1
+B posts blind 2
+A dealt [4d As]
+B dealt [8s Td]
+A calls
+B checks
+Flop [3h 3s 7h], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X4d
+A redraws hole card 0 and checks
+Turn [3h 3s 7h Kc], A (2), B (2)
+B checks
+A checks
+River [3h 3s 7h Kc 9s], A (2), B (2)
+B checks
+A checks
+A shows [5h As]
+B shows [8s Td]
+A awarded 2
+B awarded -2
+
+Round #228, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [Td Ad]
+A dealt [Ah 4h]
+B calls
+A checks
+Flop [3s Kc Qh], B (2), A (2)
+Redraw reveal for 0: WH1 X4h
+A redraws hole card 1 and checks
+B checks
+Turn [3s Kc Qh Ts], B (2), A (2)
+A checks
+B checks
+River [3s Kc Qh Ts 9c], B (2), A (2)
+A checks
+B checks
+B shows [Td Ad]
+A shows [Ah Ks]
+B awarded -2
+A awarded 2
+
+Round #229, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [7d 3c]
+B dealt [9c 3d]
+A calls
+B checks
+Flop [6h Js Th], A (2), B (2)
+Redraw reveal for 0: WH1 X3d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3c
+A redraws hole card 1 and checks
+Turn [6h Js Th Ac], A (2), B (2)
+B checks
+A checks
+River [6h Js Th Ac 6d], A (2), B (2)
+B checks
+A checks
+A shows [7d 4c]
+B shows [9c 7c]
+A awarded 0
+B awarded 0
+
+Round #230, B (-58), A (58)
+B posts blind 1
+A posts blind 2
+B dealt [8s 9s]
+A dealt [3s Ks]
+B calls
+A checks
+Flop [4c Jh Ts], B (2), A (2)
+Redraw reveal for 0: WH0 X3s
+A redraws hole card 0 and checks
+B checks
+Turn [4c Jh Ts Qs], B (2), A (2)
+A checks
+B checks
+River [4c Jh Ts Qs Jd], B (2), A (2)
+A checks
+B checks
+B shows [8s 9s]
+A shows [Qh Ks]
+B awarded 2
+A awarded -2
+
+Round #231, A (56), B (-56)
+A posts blind 1
+B posts blind 2
+A dealt [Qd Th]
+B dealt [As 3h]
+A calls
+B checks
+Flop [9d Qh Jc], A (2), B (2)
+Redraw reveal for 0: WH1 X3h
+B redraws hole card 1 and checks
+A checks
+Turn [9d Qh Jc 9s], A (2), B (2)
+B checks
+A checks
+River [9d Qh Jc 9s Ac], A (2), B (2)
+B checks
+A checks
+A shows [Qd Th]
+B shows [As 6c]
+A awarded -2
+B awarded 2
+
+Round #232, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [Jh 3s]
+A dealt [Qd Ac]
+B calls
+A checks
+Flop [2s Js 5h], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X3s
+B redraws hole card 1 and checks
+Turn [2s Js 5h 7h], B (2), A (2)
+A checks
+B checks
+River [2s Js 5h 7h Qh], B (2), A (2)
+A checks
+B checks
+B shows [Jh 8h]
+A shows [Qd Ac]
+B awarded 2
+A awarded -2
+
+Round #233, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [9c 8h]
+B dealt [Td 2s]
+A calls
+B checks
+Flop [5d 7s 2c], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+A checks
+Turn [5d 7s 2c Ah], A (2), B (2)
+B checks
+A checks
+River [5d 7s 2c Ah 8c], A (2), B (2)
+B checks
+A checks
+A shows [9c 8h]
+B shows [Td Ts]
+A awarded -2
+B awarded 2
+
+Round #234, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [6d Jc]
+A dealt [Ad As]
+B calls
+A checks
+Flop [3c Kd 2d], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X6d
+B redraws hole card 0 and checks
+Turn [3c Kd 2d Jd], B (2), A (2)
+A checks
+B checks
+River [3c Kd 2d Jd 5h], B (2), A (2)
+A checks
+B checks
+B shows [7d Jc]
+A shows [Ad As]
+B awarded -2
+A awarded 2
+
+Round #235, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [8h Jd]
+B dealt [2h 5c]
+A calls
+B checks
+Flop [4c 9s 5s], A (2), B (2)
+Redraw reveal for 0: WH0 X2h
+B redraws hole card 0 and checks
+A checks
+Turn [4c 9s 5s 2d], A (2), B (2)
+B checks
+A checks
+River [4c 9s 5s 2d 9d], A (2), B (2)
+B checks
+A checks
+A shows [8h Jd]
+B shows [Js 5c]
+A awarded -2
+B awarded 2
+
+Round #236, B (-50), A (50)
+B posts blind 1
+A posts blind 2
+B dealt [8c Ah]
+A dealt [Kd Jc]
+B calls
+A checks
+Flop [7s Jd Qd], B (2), A (2)
+A checks
+B checks
+Turn [7s Jd Qd Ad], B (2), A (2)
+A checks
+B checks
+River [7s Jd Qd Ad Kh], B (2), A (2)
+A checks
+B checks
+B shows [8c Ah]
+A shows [Kd Jc]
+B awarded -2
+A awarded 2
+
+Round #237, A (52), B (-52)
+A posts blind 1
+B posts blind 2
+A dealt [3h Qd]
+B dealt [Th Tc]
+A calls
+B checks
+Flop [2s Qs 2d], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X3h
+A redraws hole card 0 and checks
+Turn [2s Qs 2d 6h], A (2), B (2)
+B checks
+A checks
+River [2s Qs 2d 6h Kc], A (2), B (2)
+B checks
+A checks
+A shows [3d Qd]
+B shows [Th Tc]
+A awarded 2
+B awarded -2
+
+Round #238, B (-54), A (54)
+B posts blind 1
+A posts blind 2
+B dealt [6h Qh]
+A dealt [7s 3s]
+B calls
+A checks
+Flop [Tc 4h Ah], B (2), A (2)
+Redraw reveal for 0: WH1 X3s
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6h
+B redraws hole card 0 and checks
+Turn [Tc 4h Ah 5s], B (2), A (2)
+A checks
+B checks
+River [Tc 4h Ah 5s 9c], B (2), A (2)
+A checks
+B checks
+B shows [7h Qh]
+A shows [7s 9s]
+B awarded -2
+A awarded 2
+
+Round #239, A (56), B (-56)
+A posts blind 1
+B posts blind 2
+A dealt [8s 4s]
+B dealt [Jd 4d]
+A calls
+B checks
+Flop [5s 4h 7h], A (2), B (2)
+Redraw reveal for 0: WH1 X4d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X4s
+A redraws hole card 1 and checks
+Turn [5s 4h 7h Ah], A (2), B (2)
+B checks
+A checks
+River [5s 4h 7h Ah Tc], A (2), B (2)
+B checks
+A checks
+A shows [8s Ts]
+B shows [Jd 5c]
+A awarded 2
+B awarded -2
+
+Round #240, B (-58), A (58)
+B posts blind 1
+A posts blind 2
+B dealt [Ad Kd]
+A dealt [5s Ts]
+B calls
+A checks
+Flop [5d 7s 7d], B (2), A (2)
+Redraw reveal for 0: WH0 X5s
+A redraws hole card 0 and checks
+B checks
+Turn [5d 7s 7d 3s], B (2), A (2)
+A checks
+B checks
+River [5d 7s 7d 3s 2d], B (2), A (2)
+A checks
+B checks
+B shows [Ad Kd]
+A shows [Tc Ts]
+B awarded 2
+A awarded -2
+
+Round #241, A (56), B (-56)
+A posts blind 1
+B posts blind 2
+A dealt [8h 3s]
+B dealt [Tc 3c]
+A calls
+B checks
+Flop [Ks Qh Kh], A (2), B (2)
+Redraw reveal for 0: WH1 X3c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3s
+A redraws hole card 1 and checks
+Turn [Ks Qh Kh Ah], A (2), B (2)
+B checks
+A checks
+River [Ks Qh Kh Ah Kd], A (2), B (2)
+B checks
+A checks
+A shows [8h 6c]
+B shows [Tc 9h]
+A awarded 0
+B awarded 0
+
+Round #242, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [4h Ad]
+A dealt [Qc Js]
+B calls
+A checks
+Flop [9c 3h 8s], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X4h
+B redraws hole card 0 and checks
+Turn [9c 3h 8s 3d], B (2), A (2)
+A checks
+B checks
+River [9c 3h 8s 3d 7d], B (2), A (2)
+A checks
+B checks
+B shows [Kh Ad]
+A shows [Qc Js]
+B awarded 2
+A awarded -2
+
+Round #243, A (54), B (-54)
+A posts blind 1
+B posts blind 2
+A dealt [8d 5h]
+B dealt [5c 9s]
+A calls
+B checks
+Flop [6d 6s 2s], A (2), B (2)
+Redraw reveal for 0: WH0 X5c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5h
+A redraws hole card 1 and checks
+Turn [6d 6s 2s Ad], A (2), B (2)
+B checks
+A checks
+River [6d 6s 2s Ad 3c], A (2), B (2)
+B checks
+A checks
+A shows [8d 6c]
+B shows [Ts 9s]
+A awarded 2
+B awarded -2
+
+Round #244, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [Td 6d]
+A dealt [6h Kh]
+B calls
+A checks
+Flop [5d 9s Ks], B (2), A (2)
+Redraw reveal for 0: WH0 X6h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X6d
+B redraws hole card 1 and checks
+Turn [5d 9s Ks Qd], B (2), A (2)
+A checks
+B checks
+River [5d 9s Ks Qd Jh], B (2), A (2)
+A checks
+B checks
+B shows [Td 9d]
+A shows [5s Kh]
+B awarded 2
+A awarded -2
+
+Round #245, A (54), B (-54)
+A posts blind 1
+B posts blind 2
+A dealt [Qs 6d]
+B dealt [5c Ks]
+A calls
+B checks
+Flop [Jd Kc 9c], A (2), B (2)
+Redraw reveal for 0: WH0 X5c
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X6d
+A redraws hole card 1 and checks
+Turn [Jd Kc 9c 4h], A (2), B (2)
+B checks
+A checks
+River [Jd Kc 9c 4h Th], A (2), B (2)
+B checks
+A checks
+A shows [Qs 9h]
+B shows [5h Ks]
+A awarded 2
+B awarded -2
+
+Round #246, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [Tc Qd]
+A dealt [Ad 4h]
+B calls
+A checks
+Flop [Th 6h 2c], B (2), A (2)
+Redraw reveal for 0: WH1 X4h
+A redraws hole card 1 and checks
+B checks
+Turn [Th 6h 2c Kc], B (2), A (2)
+A checks
+B checks
+River [Th 6h 2c Kc 9c], B (2), A (2)
+A checks
+B checks
+B shows [Tc Qd]
+A shows [Ad Td]
+B awarded -2
+A awarded 2
+
+Round #247, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [7c 7h]
+B dealt [7s Qd]
+A calls
+B checks
+Flop [Jc 9d Jh], A (2), B (2)
+Redraw reveal for 0: WH0 X7s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X7c
+A redraws hole card 0 and checks
+Turn [Jc 9d Jh Kh], A (2), B (2)
+B checks
+A checks
+River [Jc 9d Jh Kh Tc], A (2), B (2)
+B checks
+A checks
+A shows [5h 7h]
+B shows [3h Qd]
+A awarded -2
+B awarded 2
+
+Round #248, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [As 4s]
+A dealt [2h 3s]
+B calls
+A checks
+Flop [3c Qc Th], B (2), A (2)
+Redraw reveal for 0: WH0 X2h
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X4s
+B redraws hole card 1 and checks
+Turn [3c Qc Th 3d], B (2), A (2)
+A checks
+B checks
+River [3c Qc Th 3d 9c], B (2), A (2)
+A checks
+B checks
+B shows [As 7d]
+A shows [2s 3s]
+B awarded -2
+A awarded 2
+
+Round #249, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [Tc 5d]
+B dealt [8d 7h]
+A calls
+B checks
+Flop [Kh 2s Qd], A (2), B (2)
+Redraw reveal for 0: WH1 X7h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X5d
+A redraws hole card 1 and checks
+Turn [Kh 2s Qd Ad], A (2), B (2)
+B checks
+A checks
+River [Kh 2s Qd Ad Kc], A (2), B (2)
+B checks
+A checks
+A shows [Tc 8c]
+B shows [8d 5c]
+A awarded 2
+B awarded -2
+
+Round #250, B (-60), A (60)
+B posts blind 1
+A posts blind 2
+B dealt [3s Qd]
+A dealt [8h 6d]
+B calls
+A checks
+Flop [2h Qc 5s], B (2), A (2)
+Redraw reveal for 0: WH1 X6d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X3s
+B redraws hole card 0 and checks
+Turn [2h Qc 5s 7c], B (2), A (2)
+A checks
+B checks
+River [2h Qc 5s 7c 4c], B (2), A (2)
+A checks
+B checks
+B shows [Jc Qd]
+A shows [8h 9s]
+B awarded 2
+A awarded -2
+
+Round #251, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [8s Th]
+B dealt [6d Ts]
+A calls
+B checks
+Flop [3c Td 5s], A (2), B (2)
+Redraw reveal for 0: WH0 X6d
+B redraws hole card 0 and checks
+A checks
+Turn [3c Td 5s Jh], A (2), B (2)
+B checks
+A checks
+River [3c Td 5s Jh 9d], A (2), B (2)
+B checks
+A checks
+A shows [8s Th]
+B shows [Js Ts]
+A awarded -2
+B awarded 2
+
+Round #252, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [4c Qs]
+A dealt [As Qh]
+B calls
+A checks
+Flop [2s Jh Kc], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X4c
+B redraws hole card 0 and checks
+Turn [2s Jh Kc Ks], B (2), A (2)
+A checks
+B checks
+River [2s Jh Kc Ks 4h], B (2), A (2)
+A checks
+B checks
+B shows [8h Qs]
+A shows [As Qh]
+B awarded -2
+A awarded 2
+
+Round #253, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [Tc Js]
+B dealt [8c 2d]
+A calls
+B checks
+Flop [6s Ad Qc], A (2), B (2)
+Redraw reveal for 0: WH1 X2d
+B redraws hole card 1 and checks
+A checks
+Turn [6s Ad Qc 3d], A (2), B (2)
+B checks
+A checks
+River [6s Ad Qc 3d Ah], A (2), B (2)
+B checks
+A checks
+A shows [Tc Js]
+B shows [8c Jd]
+A awarded 2
+B awarded -2
+
+Round #254, B (-60), A (60)
+B posts blind 1
+A posts blind 2
+B dealt [8s 4h]
+A dealt [Ah 9s]
+B calls
+A checks
+Flop [4s 2d Jh], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X4h
+B redraws hole card 1 and checks
+Turn [4s 2d Jh Ac], B (2), A (2)
+A checks
+B checks
+River [4s 2d Jh Ac Ts], B (2), A (2)
+A checks
+B checks
+B shows [8s 6h]
+A shows [Ah 9s]
+B awarded -2
+A awarded 2
+
+Round #255, A (62), B (-62)
+A posts blind 1
+B posts blind 2
+A dealt [5s 2s]
+B dealt [Qs 2c]
+A calls
+B checks
+Flop [Ks 4c 8c], A (2), B (2)
+Redraw reveal for 0: WH1 X2c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2s
+A redraws hole card 1 and checks
+Turn [Ks 4c 8c Jd], A (2), B (2)
+B checks
+A checks
+River [Ks 4c 8c Jd 8h], A (2), B (2)
+B checks
+A checks
+A shows [5s 2d]
+B shows [Qs 7s]
+A awarded -2
+B awarded 2
+
+Round #256, B (-60), A (60)
+B posts blind 1
+A posts blind 2
+B dealt [Qd Kh]
+A dealt [9h Qc]
+B calls
+A checks
+Flop [Ts 4d 6s], B (2), A (2)
+A checks
+B checks
+Turn [Ts 4d 6s 7s], B (2), A (2)
+A checks
+B checks
+River [Ts 4d 6s 7s As], B (2), A (2)
+A checks
+B checks
+B shows [Qd Kh]
+A shows [9h Qc]
+B awarded 2
+A awarded -2
+
+Round #257, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [Qc 8h]
+B dealt [Ad 9s]
+A calls
+B checks
+Flop [Jd Ts Kh], A (2), B (2)
+B checks
+A checks
+Turn [Jd Ts Kh 3d], A (2), B (2)
+B checks
+A checks
+River [Jd Ts Kh 3d 2s], A (2), B (2)
+B checks
+A checks
+A shows [Qc 8h]
+B shows [Ad 9s]
+A awarded -2
+B awarded 2
+
+Round #258, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [Th Kc]
+A dealt [2s 6h]
+B calls
+A checks
+Flop [9s 6s As], B (2), A (2)
+Redraw reveal for 0: WH0 X2s
+A redraws hole card 0 and checks
+B checks
+Turn [9s 6s As 3c], B (2), A (2)
+A checks
+B checks
+River [9s 6s As 3c 8s], B (2), A (2)
+A checks
+B checks
+B shows [Th Kc]
+A shows [2h 6h]
+B awarded -2
+A awarded 2
+
+Round #259, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [6c 2d]
+B dealt [Qd Th]
+A calls
+B checks
+Flop [7d Qs 3h], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X2d
+A redraws hole card 1 and checks
+Turn [7d Qs 3h 3s], A (2), B (2)
+B checks
+A checks
+River [7d Qs 3h 3s Kc], A (2), B (2)
+B checks
+A checks
+A shows [6c Jh]
+B shows [Qd Th]
+A awarded -2
+B awarded 2
+
+Round #260, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [3s 4s]
+A dealt [6d 7c]
+B calls
+A checks
+Flop [Jc Js 2s], B (2), A (2)
+Redraw reveal for 0: WH0 X6d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3s
+B redraws hole card 0 and checks
+Turn [Jc Js 2s 3h], B (2), A (2)
+A checks
+B checks
+River [Jc Js 2s 3h 8d], B (2), A (2)
+A checks
+B checks
+B shows [6h 4s]
+A shows [5s 7c]
+B awarded -2
+A awarded 2
+
+Round #261, A (58), B (-58)
+A posts blind 1
+B posts blind 2
+A dealt [6s 4h]
+B dealt [8h 7s]
+A calls
+B checks
+Flop [9d 8c Qh], A (2), B (2)
+Redraw reveal for 0: WH1 X7s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X4h
+A redraws hole card 1 and checks
+Turn [9d 8c Qh 6c], A (2), B (2)
+B checks
+A checks
+River [9d 8c Qh 6c Kc], A (2), B (2)
+B checks
+A checks
+A shows [6s 4s]
+B shows [8h 5s]
+A awarded -2
+B awarded 2
+
+Round #262, B (-56), A (56)
+B posts blind 1
+A posts blind 2
+B dealt [Kc 9h]
+A dealt [8s 9d]
+B calls
+A checks
+Flop [Tc 7s 3d], B (2), A (2)
+A checks
+B checks
+Turn [Tc 7s 3d Qh], B (2), A (2)
+A checks
+B checks
+River [Tc 7s 3d Qh 9c], B (2), A (2)
+A checks
+B checks
+B shows [Kc 9h]
+A shows [8s 9d]
+B awarded 2
+A awarded -2
+
+Round #263, A (54), B (-54)
+A posts blind 1
+B posts blind 2
+A dealt [7c 7s]
+B dealt [8s 2s]
+A calls
+B checks
+Flop [As Kh Kc], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X7c
+A redraws hole card 0 and checks
+Turn [As Kh Kc 7h], A (2), B (2)
+B checks
+A checks
+River [As Kh Kc 7h Js], A (2), B (2)
+B checks
+A checks
+A shows [Qh 7s]
+B shows [8s Ah]
+A awarded -2
+B awarded 2
+
+Round #264, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [Th Qd]
+A dealt [Jh Kh]
+B calls
+A checks
+Flop [Jd 8c Qs], B (2), A (2)
+A checks
+B checks
+Turn [Jd 8c Qs 5c], B (2), A (2)
+A checks
+B checks
+River [Jd 8c Qs 5c 8s], B (2), A (2)
+A checks
+B checks
+B shows [Th Qd]
+A shows [Jh Kh]
+B awarded 2
+A awarded -2
+
+Round #265, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [6s 4h]
+B dealt [8d 3c]
+A calls
+B checks
+Flop [Qd 9d 7c], A (2), B (2)
+Redraw reveal for 0: WH1 X3c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X4h
+A redraws hole card 1 and checks
+Turn [Qd 9d 7c 5c], A (2), B (2)
+B checks
+A checks
+River [Qd 9d 7c 5c 4c], A (2), B (2)
+B checks
+A checks
+A shows [6s 2d]
+B shows [8d Ad]
+A awarded -2
+B awarded 2
+
+Round #266, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [Ks Qs]
+A dealt [5h 6d]
+B calls
+A checks
+Flop [9d 8s Js], B (2), A (2)
+Redraw reveal for 0: WH0 X5h
+A redraws hole card 0 and checks
+B checks
+Turn [9d 8s Js 4c], B (2), A (2)
+A checks
+B checks
+River [9d 8s Js 4c 9s], B (2), A (2)
+A checks
+B checks
+B shows [Ks Qs]
+A shows [Jd 6d]
+B awarded 2
+A awarded -2
+
+Round #267, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [3c Jd]
+B dealt [7d 7h]
+A calls
+B checks
+Flop [9d Kc Ad], A (2), B (2)
+Redraw reveal for 0: WH0 X7d
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3c
+A redraws hole card 0 and checks
+Turn [9d Kc Ad 6d], A (2), B (2)
+B checks
+A checks
+River [9d Kc Ad 6d 5h], A (2), B (2)
+B checks
+A checks
+A shows [Ah Jd]
+B shows [8c 7h]
+A awarded -2
+B awarded 2
+
+Round #268, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [8c Qc]
+A dealt [3d Td]
+B calls
+A checks
+Flop [Qh 6c Kh], B (2), A (2)
+Redraw reveal for 0: WH0 X3d
+A redraws hole card 0 and checks
+B checks
+Turn [Qh 6c Kh As], B (2), A (2)
+A checks
+B checks
+River [Qh 6c Kh As Ac], B (2), A (2)
+A checks
+B checks
+B shows [8c Qc]
+A shows [2s Td]
+B awarded 2
+A awarded -2
+
+Round #269, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [Ac Th]
+B dealt [3d 2s]
+A calls
+B checks
+Flop [6s 5s 6d], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+A checks
+Turn [6s 5s 6d Ah], A (2), B (2)
+B checks
+A checks
+River [6s 5s 6d Ah Qh], A (2), B (2)
+B checks
+A checks
+A shows [Ac Th]
+B shows [3d 3c]
+A awarded 2
+B awarded -2
+
+Round #270, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [Ks 7h]
+A dealt [2d 5s]
+B calls
+A checks
+Flop [2s 5h 6d], B (2), A (2)
+Redraw reveal for 0: WH0 X2d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7h
+B redraws hole card 1 and checks
+Turn [2s 5h 6d Qc], B (2), A (2)
+A checks
+B checks
+River [2s 5h 6d Qc 4h], B (2), A (2)
+A checks
+B checks
+B shows [Ks Th]
+A shows [Qd 5s]
+B awarded -2
+A awarded 2
+
+Round #271, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [9h 6h]
+B dealt [Th Ks]
+A calls
+B checks
+Flop [2c Jc 7h], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X6h
+A redraws hole card 1 and checks
+Turn [2c Jc 7h 8c], A (2), B (2)
+B checks
+A checks
+River [2c Jc 7h 8c 6s], A (2), B (2)
+B checks
+A checks
+A shows [9h 5h]
+B shows [Th Ks]
+A awarded 2
+B awarded -2
+
+Round #272, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [Js Qs]
+A dealt [4d 8h]
+B calls
+A checks
+Flop [2d 9h 4c], B (2), A (2)
+Redraw reveal for 0: WH0 X4d
+A redraws hole card 0 and checks
+B checks
+Turn [2d 9h 4c 7d], B (2), A (2)
+A checks
+B checks
+River [2d 9h 4c 7d 9d], B (2), A (2)
+A checks
+B checks
+B shows [Js Qs]
+A shows [9c 8h]
+B awarded -2
+A awarded 2
+
+Round #273, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [Jh Ts]
+B dealt [As 5h]
+A calls
+B checks
+Flop [Ks Jd 7d], A (2), B (2)
+Redraw reveal for 0: WH1 X5h
+B redraws hole card 1 and checks
+A checks
+Turn [Ks Jd 7d 4s], A (2), B (2)
+B checks
+A checks
+River [Ks Jd 7d 4s Jc], A (2), B (2)
+B checks
+A checks
+A shows [Jh Ts]
+B shows [As Qc]
+A awarded 2
+B awarded -2
+
+Round #274, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [2h 4d]
+A dealt [7c 7d]
+B calls
+A checks
+Flop [Th 3d Qh], B (2), A (2)
+Redraw reveal for 0: WH0 X7c
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X2h
+B redraws hole card 0 and checks
+Turn [Th 3d Qh 3h], B (2), A (2)
+A checks
+B checks
+River [Th 3d Qh 3h 2c], B (2), A (2)
+A checks
+B checks
+B shows [5s 4d]
+A shows [Tc 7d]
+B awarded -2
+A awarded 2
+
+Round #275, A (54), B (-54)
+A posts blind 1
+B posts blind 2
+A dealt [2c Kh]
+B dealt [7s 2s]
+A calls
+B checks
+Flop [2d 7h 6c], A (2), B (2)
+Redraw reveal for 0: WH1 X2s
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2c
+A redraws hole card 0 and checks
+Turn [2d 7h 6c As], A (2), B (2)
+B checks
+A checks
+River [2d 7h 6c As Td], A (2), B (2)
+B checks
+A checks
+A shows [6d Kh]
+B shows [7s 9s]
+A awarded -2
+B awarded 2
+
+Round #276, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [Kd Jd]
+A dealt [5c 7d]
+B calls
+A checks
+Flop [Qc 9c Td], B (2), A (2)
+Redraw reveal for 0: WH0 X5c
+A redraws hole card 0 and checks
+B checks
+Turn [Qc 9c Td 6c], B (2), A (2)
+A checks
+B checks
+River [Qc 9c Td 6c 4d], B (2), A (2)
+A checks
+B checks
+B shows [Kd Jd]
+A shows [4h 7d]
+B awarded 2
+A awarded -2
+
+Round #277, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [6h 4s]
+B dealt [5s 2h]
+A calls
+B checks
+Flop [9h 9s 4h], A (2), B (2)
+Redraw reveal for 0: WH1 X2h
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X4s
+A redraws hole card 1 and checks
+Turn [9h 9s 4h 6c], A (2), B (2)
+B checks
+A checks
+River [9h 9s 4h 6c 8d], A (2), B (2)
+B checks
+A checks
+A shows [6h 7c]
+B shows [5s Kd]
+A awarded 2
+B awarded -2
+
+Round #278, B (-52), A (52)
+B posts blind 1
+A posts blind 2
+B dealt [6s Qd]
+A dealt [3s Jc]
+B calls
+A checks
+Flop [Tc 5c 7s], B (2), A (2)
+Redraw reveal for 0: WH0 X3s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6s
+B redraws hole card 0 and checks
+Turn [Tc 5c 7s Kc], B (2), A (2)
+A checks
+B checks
+River [Tc 5c 7s Kc Jd], B (2), A (2)
+A checks
+B checks
+B shows [Ad Qd]
+A shows [5s Jc]
+B awarded 2
+A awarded -2
+
+Round #279, A (50), B (-50)
+A posts blind 1
+B posts blind 2
+A dealt [Qd Kd]
+B dealt [3d 3s]
+A calls
+B checks
+Flop [Td 4c 6c], A (2), B (2)
+Redraw reveal for 0: WH0 X3d
+B redraws hole card 0 and checks
+A checks
+Turn [Td 4c 6c 9s], A (2), B (2)
+B checks
+A checks
+River [Td 4c 6c 9s 9d], A (2), B (2)
+B checks
+A checks
+A shows [Qd Kd]
+B shows [4s 3s]
+A awarded -2
+B awarded 2
+
+Round #280, B (-48), A (48)
+B posts blind 1
+A posts blind 2
+B dealt [5s 5c]
+A dealt [4d 8h]
+B calls
+A checks
+Flop [Tc 7h 7d], B (2), A (2)
+Redraw reveal for 0: WH0 X4d
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X5s
+B redraws hole card 0 and checks
+Turn [Tc 7h 7d 5d], B (2), A (2)
+A checks
+B checks
+River [Tc 7h 7d 5d 4h], B (2), A (2)
+A checks
+B checks
+B shows [9s 5c]
+A shows [2h 8h]
+B awarded 2
+A awarded -2
+
+Round #281, A (46), B (-46)
+A posts blind 1
+B posts blind 2
+A dealt [4c 5d]
+B dealt [Td Qd]
+A calls
+B checks
+Flop [8d 7s 4d], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X4c
+A redraws hole card 0 and checks
+Turn [8d 7s 4d 9s], A (2), B (2)
+B checks
+A checks
+River [8d 7s 4d 9s Ad], A (2), B (2)
+B checks
+A checks
+A shows [Jc 5d]
+B shows [Td Qd]
+A awarded -2
+B awarded 2
+
+Round #282, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [5d 4h]
+A dealt [Js Qs]
+B calls
+A checks
+Flop [Th Kh 4s], B (2), A (2)
+A checks
+Redraw reveal for 1: WH1 X4h
+B redraws hole card 1 and checks
+Turn [Th Kh 4s 5s], B (2), A (2)
+A checks
+B checks
+River [Th Kh 4s 5s 2c], B (2), A (2)
+A checks
+B checks
+B shows [5d 6d]
+A shows [Js Qs]
+B awarded 2
+A awarded -2
+
+Round #283, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [Tc 9h]
+B dealt [6s Ah]
+A calls
+B checks
+Flop [As 9c Qc], A (2), B (2)
+Redraw reveal for 0: WH0 X6s
+B redraws hole card 0 and checks
+A checks
+Turn [As 9c Qc 8d], A (2), B (2)
+B checks
+A checks
+River [As 9c Qc 8d Kh], A (2), B (2)
+B checks
+A checks
+A shows [Tc 9h]
+B shows [2s Ah]
+A awarded -2
+B awarded 2
+
+Round #284, B (-40), A (40)
+B posts blind 1
+A posts blind 2
+B dealt [5h Th]
+A dealt [Tc 6d]
+B calls
+A checks
+Flop [8h 2s 3s], B (2), A (2)
+Redraw reveal for 0: WH1 X6d
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5h
+B redraws hole card 0 and checks
+Turn [8h 2s 3s Qd], B (2), A (2)
+A checks
+B checks
+River [8h 2s 3s Qd 3d], B (2), A (2)
+A checks
+B checks
+B shows [3h Th]
+A shows [Tc 2c]
+B awarded 2
+A awarded -2
+
+Round #285, A (38), B (-38)
+A posts blind 1
+B posts blind 2
+A dealt [8c 3s]
+B dealt [9h Tc]
+A calls
+B checks
+Flop [4c 2h Td], A (2), B (2)
+B checks
+Redraw reveal for 1: WH1 X3s
+A redraws hole card 1 and checks
+Turn [4c 2h Td Jh], A (2), B (2)
+B checks
+A checks
+River [4c 2h Td Jh Js], A (2), B (2)
+B checks
+A checks
+A shows [8c 3d]
+B shows [9h Tc]
+A awarded -2
+B awarded 2
+
+Round #286, B (-36), A (36)
+B posts blind 1
+A posts blind 2
+B dealt [7c Qd]
+A dealt [8c 7h]
+B calls
+A checks
+Flop [Jh 8d Jc], B (2), A (2)
+Redraw reveal for 0: WH1 X7h
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X7c
+B redraws hole card 0 and checks
+Turn [Jh 8d Jc Ah], B (2), A (2)
+A checks
+B checks
+River [Jh 8d Jc Ah Kc], B (2), A (2)
+A checks
+B checks
+B shows [Ad Qd]
+A shows [8c 3d]
+B awarded 2
+A awarded -2
+
+Round #287, A (34), B (-34)
+A posts blind 1
+B posts blind 2
+A dealt [5d 2h]
+B dealt [4h 3d]
+A calls
+B checks
+Flop [6c Kc Kd], A (2), B (2)
+Redraw reveal for 0: WH1 X3d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2h
+A redraws hole card 1 and checks
+Turn [6c Kc Kd Qh], A (2), B (2)
+B checks
+A checks
+River [6c Kc Kd Qh 8c], A (2), B (2)
+B checks
+A checks
+A shows [5d 3s]
+B shows [4h Jd]
+A awarded -2
+B awarded 2
+
+Round #288, B (-32), A (32)
+B posts blind 1
+A posts blind 2
+B dealt [4c 4s]
+A dealt [Td Kh]
+B calls
+A checks
+Flop [2d 4h 3c], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X4c
+B redraws hole card 0 and checks
+Turn [2d 4h 3c 3d], B (2), A (2)
+A checks
+B checks
+River [2d 4h 3c 3d Qs], B (2), A (2)
+A checks
+B checks
+B shows [Ks 4s]
+A shows [Td Kh]
+B awarded 2
+A awarded -2
+
+Round #289, A (30), B (-30)
+A posts blind 1
+B posts blind 2
+A dealt [8c 9s]
+B dealt [Ah Td]
+A calls
+B checks
+Flop [8d Jh 2s], A (2), B (2)
+B checks
+A checks
+Turn [8d Jh 2s 3h], A (2), B (2)
+B checks
+A checks
+River [8d Jh 2s 3h 9h], A (2), B (2)
+B checks
+A checks
+A shows [8c 9s]
+B shows [Ah Td]
+A awarded 2
+B awarded -2
+
+Round #290, B (-32), A (32)
+B posts blind 1
+A posts blind 2
+B dealt [8d 3s]
+A dealt [6s As]
+B calls
+A checks
+Flop [Ts 8c Td], B (2), A (2)
+Redraw reveal for 0: WH0 X6s
+A redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X3s
+B redraws hole card 1 and checks
+Turn [Ts 8c Td 4s], B (2), A (2)
+A checks
+B checks
+River [Ts 8c Td 4s 7h], B (2), A (2)
+A checks
+B checks
+B shows [8d 3c]
+A shows [3h As]
+B awarded 2
+A awarded -2
+
+Round #291, A (30), B (-30)
+A posts blind 1
+B posts blind 2
+A dealt [3d Js]
+B dealt [6s Ac]
+A calls
+B checks
+Flop [3s 9h Jc], A (2), B (2)
+Redraw reveal for 0: WH0 X6s
+B redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X3d
+A redraws hole card 0 and checks
+Turn [3s 9h Jc 6c], A (2), B (2)
+B checks
+A checks
+River [3s 9h Jc 6c Jh], A (2), B (2)
+B checks
+A checks
+A shows [5h Js]
+B shows [7s Ac]
+A awarded 2
+B awarded -2
+
+Round #292, B (-32), A (32)
+B posts blind 1
+A posts blind 2
+B dealt [Kd 9h]
+A dealt [6h 5c]
+B calls
+A checks
+Flop [Th 5d 2d], B (2), A (2)
+Redraw reveal for 0: WH1 X5c
+A redraws hole card 1 and checks
+B checks
+Turn [Th 5d 2d 7s], B (2), A (2)
+A checks
+B checks
+River [Th 5d 2d 7s 6c], B (2), A (2)
+A checks
+B checks
+B shows [Kd 9h]
+A shows [6h 8h]
+B awarded -2
+A awarded 2
+
+Round #293, A (34), B (-34)
+A posts blind 1
+B posts blind 2
+A dealt [5c 6d]
+B dealt [Jc Ac]
+A calls
+B checks
+Flop [Qh 4d Jd], A (2), B (2)
+B checks
+Redraw reveal for 1: WH0 X5c
+A redraws hole card 0 and checks
+Turn [Qh 4d Jd Qc], A (2), B (2)
+B checks
+A checks
+River [Qh 4d Jd Qc 9h], A (2), B (2)
+B checks
+A checks
+A shows [7s 6d]
+B shows [Jc Ac]
+A awarded -2
+B awarded 2
+
+Round #294, B (-32), A (32)
+B posts blind 1
+A posts blind 2
+B dealt [Qc 9d]
+A dealt [5h Kc]
+B calls
+A checks
+Flop [Kd 5s 6c], B (2), A (2)
+Redraw reveal for 0: WH0 X5h
+A redraws hole card 0 and checks
+B checks
+Turn [Kd 5s 6c 4d], B (2), A (2)
+A checks
+B checks
+River [Kd 5s 6c 4d As], B (2), A (2)
+A checks
+B checks
+B shows [Qc 9d]
+A shows [4s Kc]
+B awarded -2
+A awarded 2
+
+Round #295, A (34), B (-34)
+A posts blind 1
+B posts blind 2
+A dealt [Td 2d]
+B dealt [3s 2c]
+A calls
+B checks
+Flop [4h Th 5d], A (2), B (2)
+Redraw reveal for 0: WH1 X2c
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2d
+A redraws hole card 1 and checks
+Turn [4h Th 5d Ah], A (2), B (2)
+B checks
+A checks
+River [4h Th 5d Ah Qs], A (2), B (2)
+B checks
+A checks
+A shows [Td 9d]
+B shows [3s 7h]
+A awarded 2
+B awarded -2
+
+Round #296, B (-36), A (36)
+B posts blind 1
+A posts blind 2
+B dealt [3h 7c]
+A dealt [Jh 8h]
+B calls
+A checks
+Flop [9d 2d Tc], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X3h
+B redraws hole card 0 and checks
+Turn [9d 2d Tc 6d], B (2), A (2)
+A checks
+B checks
+River [9d 2d Tc 6d Ah], B (2), A (2)
+A checks
+B checks
+B shows [5s 7c]
+A shows [Jh 8h]
+B awarded -2
+A awarded 2
+
+Round #297, A (38), B (-38)
+A posts blind 1
+B posts blind 2
+A dealt [Th 8d]
+B dealt [Tc 7s]
+A calls
+B checks
+Flop [2h 9d Kd], A (2), B (2)
+Redraw reveal for 0: WH1 X7s
+B redraws hole card 1 and checks
+A checks
+Turn [2h 9d Kd 6h], A (2), B (2)
+B checks
+A checks
+River [2h 9d Kd 6h 3c], A (2), B (2)
+B checks
+A checks
+A shows [Th 8d]
+B shows [Tc 5c]
+A awarded 2
+B awarded -2
+
+Round #298, B (-40), A (40)
+B posts blind 1
+A posts blind 2
+B dealt [5c 5d]
+A dealt [9h 2c]
+B calls
+A checks
+Flop [8s 6h Qs], B (2), A (2)
+Redraw reveal for 0: WH1 X2c
+A redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5c
+B redraws hole card 0 and checks
+Turn [8s 6h Qs 4d], B (2), A (2)
+A checks
+B checks
+River [8s 6h Qs 4d Ts], B (2), A (2)
+A checks
+B checks
+B shows [9c 5d]
+A shows [9h 4c]
+B awarded -2
+A awarded 2
+
+Round #299, A (42), B (-42)
+A posts blind 1
+B posts blind 2
+A dealt [Kc 2c]
+B dealt [4h 2d]
+A calls
+B checks
+Flop [Jc 6h 8s], A (2), B (2)
+Redraw reveal for 0: WH1 X2d
+B redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2c
+A redraws hole card 1 and checks
+Turn [Jc 6h 8s 4s], A (2), B (2)
+B checks
+A checks
+River [Jc 6h 8s 4s Ks], A (2), B (2)
+B checks
+A checks
+A shows [Kc Kh]
+B shows [4h 7s]
+A awarded 2
+B awarded -2
+
+Round #300, B (-44), A (44)
+B posts blind 1
+A posts blind 2
+B dealt [6s 6c]
+A dealt [As Th]
+B calls
+A checks
+Flop [4h Ts 3d], B (2), A (2)
+A checks
+Redraw reveal for 1: WH0 X6s
+B redraws hole card 0 and checks
+Turn [4h Ts 3d Qs], B (2), A (2)
+A checks
+B checks
+River [4h Ts 3d Qs Ks], B (2), A (2)
+A checks
+B checks
+B shows [9h 6c]
+A shows [As Th]
+B awarded -2
+A awarded 2
+
+Final, A (46), B (-46)
